@@ -1,0 +1,222 @@
+<mxfile host="Electron" modified="2024-06-18T04:05:24.819Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="wdksX1yNWstGXjvHa9OM" version="24.2.5" type="device" pages="2">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Initial Org Chart">
+    <mxGraphModel dx="1434" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6l5xIXxNQ7RAkP5oyuOz-1" value="Orgchart" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxGeometry x="45" y="40" width="1080" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="6l5xIXxNQ7RAkP5oyuOz-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="6l5xIXxNQ7RAkP5oyuOz-1" source="6l5xIXxNQ7RAkP5oyuOz-4" target="6l5xIXxNQ7RAkP5oyuOz-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6l5xIXxNQ7RAkP5oyuOz-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="6l5xIXxNQ7RAkP5oyuOz-1" source="6l5xIXxNQ7RAkP5oyuOz-4" target="6l5xIXxNQ7RAkP5oyuOz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="COO" treeRoot="1" id="6l5xIXxNQ7RAkP5oyuOz-4">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="6l5xIXxNQ7RAkP5oyuOz-1">
+            <mxGeometry x="475" y="210" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="6l5xIXxNQ7RAkP5oyuOz-5" value="VP Marketing" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="6l5xIXxNQ7RAkP5oyuOz-1">
+          <mxGeometry x="140" y="315" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6l5xIXxNQ7RAkP5oyuOz-6" value="VP Operations" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="6l5xIXxNQ7RAkP5oyuOz-1">
+          <mxGeometry x="485" y="315" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6l5xIXxNQ7RAkP5oyuOz-11" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;startArrow=none;endArrow=none;" edge="1" source="6l5xIXxNQ7RAkP5oyuOz-4" target="6l5xIXxNQ7RAkP5oyuOz-12" parent="6l5xIXxNQ7RAkP5oyuOz-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Shareholder" treeRoot="1" id="6l5xIXxNQ7RAkP5oyuOz-12">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="6l5xIXxNQ7RAkP5oyuOz-1">
+            <mxGeometry x="475" y="120" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="6l5xIXxNQ7RAkP5oyuOz-13" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" target="6l5xIXxNQ7RAkP5oyuOz-14" source="6l5xIXxNQ7RAkP5oyuOz-5" parent="6l5xIXxNQ7RAkP5oyuOz-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="310" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6l5xIXxNQ7RAkP5oyuOz-14" value="Sales Manager" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="6l5xIXxNQ7RAkP5oyuOz-1">
+          <mxGeometry x="70" y="410" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6l5xIXxNQ7RAkP5oyuOz-15" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" source="6l5xIXxNQ7RAkP5oyuOz-4" target="6l5xIXxNQ7RAkP5oyuOz-16" parent="6l5xIXxNQ7RAkP5oyuOz-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="VP Finance" treeRoot="1" id="6l5xIXxNQ7RAkP5oyuOz-16">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="6l5xIXxNQ7RAkP5oyuOz-1">
+            <mxGeometry x="820" y="315" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="6l5xIXxNQ7RAkP5oyuOz-17" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" target="6l5xIXxNQ7RAkP5oyuOz-18" source="6l5xIXxNQ7RAkP5oyuOz-5" parent="6l5xIXxNQ7RAkP5oyuOz-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="310" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6l5xIXxNQ7RAkP5oyuOz-18" value="Advertising Research Manager" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="6l5xIXxNQ7RAkP5oyuOz-1">
+          <mxGeometry x="208" y="410" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6l5xIXxNQ7RAkP5oyuOz-19" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" target="6l5xIXxNQ7RAkP5oyuOz-20" source="6l5xIXxNQ7RAkP5oyuOz-6" parent="6l5xIXxNQ7RAkP5oyuOz-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="665" y="315" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6l5xIXxNQ7RAkP5oyuOz-20" value="Production Manager" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="6l5xIXxNQ7RAkP5oyuOz-1">
+          <mxGeometry x="347" y="410" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6l5xIXxNQ7RAkP5oyuOz-21" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" target="6l5xIXxNQ7RAkP5oyuOz-22" source="6l5xIXxNQ7RAkP5oyuOz-6" parent="6l5xIXxNQ7RAkP5oyuOz-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="665" y="315" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6l5xIXxNQ7RAkP5oyuOz-22" value="Service Manager" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="6l5xIXxNQ7RAkP5oyuOz-1">
+          <mxGeometry x="485" y="410" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6l5xIXxNQ7RAkP5oyuOz-23" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" target="6l5xIXxNQ7RAkP5oyuOz-24" source="6l5xIXxNQ7RAkP5oyuOz-6" parent="6l5xIXxNQ7RAkP5oyuOz-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="665" y="315" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6l5xIXxNQ7RAkP5oyuOz-24" value="Facilities Manager" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="6l5xIXxNQ7RAkP5oyuOz-1">
+          <mxGeometry x="623" y="410" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6l5xIXxNQ7RAkP5oyuOz-25" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" target="6l5xIXxNQ7RAkP5oyuOz-26" source="6l5xIXxNQ7RAkP5oyuOz-16" parent="6l5xIXxNQ7RAkP5oyuOz-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="735" y="310" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Accounts Receivable Manager" treeRoot="1" id="6l5xIXxNQ7RAkP5oyuOz-26">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="6l5xIXxNQ7RAkP5oyuOz-1">
+            <mxGeometry x="752" y="410" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="6l5xIXxNQ7RAkP5oyuOz-27" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" target="6l5xIXxNQ7RAkP5oyuOz-28" source="6l5xIXxNQ7RAkP5oyuOz-16" parent="6l5xIXxNQ7RAkP5oyuOz-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="735" y="310" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Accounts Payable Manager" treeRoot="1" id="6l5xIXxNQ7RAkP5oyuOz-28">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="6l5xIXxNQ7RAkP5oyuOz-1">
+            <mxGeometry x="890" y="410" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="KwGVMQ8CZyMnNxMYBmU4-1" value="Jack" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="6l5xIXxNQ7RAkP5oyuOz-1">
+          <mxGeometry x="970" y="40" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KwGVMQ8CZyMnNxMYBmU4-2" value="Murray" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="6l5xIXxNQ7RAkP5oyuOz-1">
+          <mxGeometry x="970" y="80" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Revised Org Chart" id="eMnksjZxXdfOJxNk1rsV">
+    <mxGraphModel dx="1434" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="6fmJqbYU1tzp-I99zwMP-0" />
+        <mxCell id="6fmJqbYU1tzp-I99zwMP-1" parent="6fmJqbYU1tzp-I99zwMP-0" />
+        <mxCell id="6fmJqbYU1tzp-I99zwMP-2" value="Orgchart" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="6fmJqbYU1tzp-I99zwMP-1">
+          <mxGeometry x="45" y="40" width="1080" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="6fmJqbYU1tzp-I99zwMP-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="6fmJqbYU1tzp-I99zwMP-2" source="6fmJqbYU1tzp-I99zwMP-5" target="6fmJqbYU1tzp-I99zwMP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6fmJqbYU1tzp-I99zwMP-4" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="6fmJqbYU1tzp-I99zwMP-2" source="6fmJqbYU1tzp-I99zwMP-5" target="6fmJqbYU1tzp-I99zwMP-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="COO" treeRoot="1" id="6fmJqbYU1tzp-I99zwMP-5">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="6fmJqbYU1tzp-I99zwMP-2">
+            <mxGeometry x="475" y="210" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="6fmJqbYU1tzp-I99zwMP-6" value="VP Marketing" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="6fmJqbYU1tzp-I99zwMP-2">
+          <mxGeometry x="140" y="315" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6fmJqbYU1tzp-I99zwMP-7" value="VP Operations" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="6fmJqbYU1tzp-I99zwMP-2">
+          <mxGeometry x="485" y="315" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6fmJqbYU1tzp-I99zwMP-8" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;startArrow=none;endArrow=none;" edge="1" parent="6fmJqbYU1tzp-I99zwMP-2" source="6fmJqbYU1tzp-I99zwMP-5" target="6fmJqbYU1tzp-I99zwMP-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Shareholder" treeRoot="1" id="6fmJqbYU1tzp-I99zwMP-9">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="6fmJqbYU1tzp-I99zwMP-2">
+            <mxGeometry x="475" y="120" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="6fmJqbYU1tzp-I99zwMP-10" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="6fmJqbYU1tzp-I99zwMP-2" source="6fmJqbYU1tzp-I99zwMP-6" target="6fmJqbYU1tzp-I99zwMP-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="310" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6fmJqbYU1tzp-I99zwMP-11" value="Sales Manager" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="6fmJqbYU1tzp-I99zwMP-2">
+          <mxGeometry x="70" y="410" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6fmJqbYU1tzp-I99zwMP-12" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="6fmJqbYU1tzp-I99zwMP-2" source="6fmJqbYU1tzp-I99zwMP-5" target="6fmJqbYU1tzp-I99zwMP-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="VP Finance" treeRoot="1" id="6fmJqbYU1tzp-I99zwMP-13">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="6fmJqbYU1tzp-I99zwMP-2">
+            <mxGeometry x="820" y="315" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="6fmJqbYU1tzp-I99zwMP-14" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="6fmJqbYU1tzp-I99zwMP-2" source="6fmJqbYU1tzp-I99zwMP-6" target="6fmJqbYU1tzp-I99zwMP-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="310" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6fmJqbYU1tzp-I99zwMP-15" value="Advertising Research Manager" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="6fmJqbYU1tzp-I99zwMP-2">
+          <mxGeometry x="208" y="410" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6fmJqbYU1tzp-I99zwMP-16" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="6fmJqbYU1tzp-I99zwMP-2" source="6fmJqbYU1tzp-I99zwMP-7" target="6fmJqbYU1tzp-I99zwMP-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="665" y="315" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6fmJqbYU1tzp-I99zwMP-17" value="Production Manager" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="6fmJqbYU1tzp-I99zwMP-2">
+          <mxGeometry x="347" y="410" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6fmJqbYU1tzp-I99zwMP-18" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="6fmJqbYU1tzp-I99zwMP-2" source="6fmJqbYU1tzp-I99zwMP-7" target="6fmJqbYU1tzp-I99zwMP-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="665" y="315" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6fmJqbYU1tzp-I99zwMP-19" value="Service Manager" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="6fmJqbYU1tzp-I99zwMP-2">
+          <mxGeometry x="485" y="410" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6fmJqbYU1tzp-I99zwMP-20" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="6fmJqbYU1tzp-I99zwMP-2" source="6fmJqbYU1tzp-I99zwMP-7" target="6fmJqbYU1tzp-I99zwMP-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="665" y="315" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6fmJqbYU1tzp-I99zwMP-21" value="Facilities Manager" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="6fmJqbYU1tzp-I99zwMP-2">
+          <mxGeometry x="623" y="410" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6fmJqbYU1tzp-I99zwMP-22" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="6fmJqbYU1tzp-I99zwMP-2" source="6fmJqbYU1tzp-I99zwMP-13" target="6fmJqbYU1tzp-I99zwMP-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="735" y="310" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Accounts Receivable Manager" treeRoot="1" id="6fmJqbYU1tzp-I99zwMP-23">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="6fmJqbYU1tzp-I99zwMP-2">
+            <mxGeometry x="752" y="410" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="6fmJqbYU1tzp-I99zwMP-24" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" parent="6fmJqbYU1tzp-I99zwMP-2" source="6fmJqbYU1tzp-I99zwMP-13" target="6fmJqbYU1tzp-I99zwMP-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="735" y="310" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Accounts Payable Manager" treeRoot="1" id="6fmJqbYU1tzp-I99zwMP-25">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="6fmJqbYU1tzp-I99zwMP-2">
+            <mxGeometry x="890" y="410" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="pzWM3A3Ne4n02mJv-k3a-0" value="Jack" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="6fmJqbYU1tzp-I99zwMP-1">
+          <mxGeometry x="1015" y="80" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pzWM3A3Ne4n02mJv-k3a-1" value="Murray" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="6fmJqbYU1tzp-I99zwMP-1">
+          <mxGeometry x="1015" y="120" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
