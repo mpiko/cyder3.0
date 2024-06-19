@@ -23,3 +23,14 @@ Document the flow
 - Implement test to target audience
 - Evaluate results
 - Propose to COO
+
+Quantifying innovation
+Example: Changing advertising working for a retail shop
+Before change:
+1. Determine how many people came in the door before the innovation was put into place
+2. Determine how many people purchased product and the dollar value of those products
+After the change
+4. Count the number of people who came in the door after you change the words
+5. Count the number of people who purchased something
+6. Determine the average unit value of a sale
+7. Determine what the improvement netted as a result.
