@@ -4,9 +4,9 @@
 Refine this definition of product
 Product (service?) is the way your business operates
 Your business sells commodity products
-
-Procedures
-Every action should be accompanied by a procedure 
+### Procedures
+Every action should be accompanied by a procedure. The procedure should follow the template and include standards, metrics, responsibilities, etc.
+Procedures can be amended via the **Innovations Procedure**
 ### Innovation procedure
 ^innovation
 Document the flow
@@ -25,7 +25,6 @@ Document the flow
 - Implement test to target audience
 - Evaluate results
 - Propose to COO for **Orchestration**
-
 ### Quantifying innovation
 Example: Changing greeting words used for a retail shop
 Before change:
@@ -36,7 +35,6 @@ After the change
 4. Count the number of people who purchased something
 5. Determine the average unit value of the sales
 6. Determine what the improvement netted as a result.
-
 ### Orchestration
 Removal of discretion
 Creating procedures, check lists, flowcharts, etc. for whatever the new or amended process requires. 
