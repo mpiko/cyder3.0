@@ -8,3 +8,7 @@ Your business sells commodity products
 Every action should be accompanied by a procedure. The procedure should follow the template and include standards, metrics, responsibilities, etc.
 Procedures can be amended via the **Innovations Procedure**
 
+
+## Project Idea
+### Activity timer
+list actions, button to start, end, 
