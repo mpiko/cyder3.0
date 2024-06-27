@@ -46,8 +46,8 @@ Michael Piko
 Solutions Manager
 Cyder Solutions
 E: michael@cyder.com.au
-0421 582 530
-www.cyder.com.au
+P: 0421 582 530
+W: www.cyder.com.au
 
 P.S. The sooner you act, the sooner you'll see the benefits. Let's get started on transforming your business today!
 
