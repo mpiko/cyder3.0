@@ -5,7 +5,7 @@ Hi [Prospect's Name],
 I hope this email finds you well. I'm reaching out to introduce an exclusive service from Cyder Solutions that can deliver immediate, tangible benefits to your business at a fraction of the cost of a full-scale project.
 
 **Introducing the Business Process Optimisation Audit!**
-As a small business owner in the engineering, manufacturing, or trade services industry, you're likely juggling multiple responsibilities and challenges. Whether it's ensuring consistency across tasks, managing key personnel, or dealing with high staff turnover, we understand the unique pressures you face. That's why we've designed a service specifically to address these pain points quickly and affordably.
+As a business owner in the engineering, manufacturing, or trade services industry, you're likely juggling multiple responsibilities and challenges. Automation produces results. Whether it's ensuring consistency across tasks, managing key personnel, or dealing with high staff turnover, we understand the unique pressures you face. That's why we've designed a service specifically to address these pain points quickly and affordably.
 
 **Here's why you can't afford to miss this opportunity:**
 **1. Rapid Assessment:**
@@ -43,9 +43,11 @@ Looking forward to helping you take your business to the next level!
 Best regards,
 
 Michael Piko  
-Senior Marketing Manager
-Cyder Solutions  
-  
+Solutions Manager
+Cyder Solutions
+E: michael@cyder.com.au
+0421 582 530
+www.cyder.com.au
 
 P.S. The sooner you act, the sooner you'll see the benefits. Let's get started on transforming your business today!
 
