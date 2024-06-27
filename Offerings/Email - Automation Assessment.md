@@ -16,7 +16,7 @@ As a small business owner in the engineering, manufacturing, or trade services i
    - Utilises proven methodologies to identify immediate improvements.
 **3. Actionable Recommendations:**
    - A detailed report with practical steps to streamline operations and eliminate bottlenecks.
-   - Suggestions for automation using tools like Odoo, Zapier, and IFTTT.
+   - Suggestions for the correct automation tools specific to your needs.
 **4. Cost-Effective:**
    - Affordable pricing tailored for small businesses.
    - High return on investment through identified efficiencies and cost savings.
@@ -28,13 +28,13 @@ As a small business owner in the engineering, manufacturing, or trade services i
 - **Cost Savings:** Identification of cost-saving opportunities through streamlined processes and automation.
 - **Enhanced Productivity:** Better use of staff time and resources, reducing the burden on key personnel.
 - **Improved Decision-Making:** Clear insights and data to support informed business decisions.
-- **Foundation for Future Growth:** Lays the groundwork for potential future projects and deeper engagement with Cyder Solutions.
+- **Foundation for Future Growth:** Lays the groundwork for potential future projects with real measurable ROI benefits and deeper engagement with Cyder Solutions.
 
 **Special Offer:**
-For a limited time, we're offering this comprehensive audit at an introductory rate. This is an exceptional opportunity to gain insights and improvements that will have a lasting impact on your business.
+For a limited time, we're offering this comprehensive audit at an introductory rate. This is an exceptional opportunity to gain insights and improvements that will have a lasting impact on your business. Normally priced at over $3000, we are excited to offer this assessment to you today for just $300 ex GST.
 
 **Act Now:**
-Don't miss out on this chance to unlock immediate business improvements. Reply to this email or call us at [Your Phone Number] to schedule your Business Process Optimisation Audit today. 
+Don't miss out on this chance to unlock immediate business improvements. Reply to this email or call me personally at 0421 582 530 to schedule your Business Process Optimisation Audit today.
 
 Taking this small step now can lead to significant cost savings, improved efficiency, and peace of mind knowing your business is operating at its best.
 
@@ -42,10 +42,10 @@ Looking forward to helping you take your business to the next level!
 
 Best regards,
 
-[Your Name]  
-Senior Marketing Manager  
+Michael Piko  
+Senior Marketing Manager
 Cyder Solutions  
-[Your Contact Information]  
+  
 
 P.S. The sooner you act, the sooner you'll see the benefits. Let's get started on transforming your business today!
 

@@ -1,6 +1,6 @@
-### Service Offering: Business Process Optimization Audit
+### Service Offering: Business Process Optimisation Audit
 **Description:**
-The Business Process Optimization Audit is a quick, affordable, and highly valuable service designed to identify immediate improvements in your business operations. This audit is specifically tailored for small business owners in the engineering, manufacturing, and trade services industries. It serves as an excellent ice-breaker, providing you with actionable insights and setting the stage for deeper engagement with Cyder Solutions.
+The Business Process Optimisation Audit is a quick, affordable, and highly valuable service designed to identify immediate improvements in your business operations. This audit is specifically tailored for small business owners in the engineering, manufacturing, and trade services industries. It serves as an excellent ice-breaker, providing you with actionable insights and setting the stage for deeper engagement with Cyder Solutions.
 
 **Key Features:**
 1. **Rapid Assessment:**
