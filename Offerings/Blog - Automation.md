@@ -8,7 +8,7 @@ Running a small business in industries such as engineering, manufacturing, and t
 
 **Imagine this scenario:** You’re a business owner with 50 employees, and your day starts with addressing urgent issues from different departments—inventory shortages, late customer orders, and accounting discrepancies. By mid-day, you’re already exhausted, and the thought of taking a holiday seems impossible. Automation can be your game-changer, transforming your business operations and freeing up your time for what truly matters.
 
-### 1. **Identify Repetitive Tasks**
+### **1. Identify Repetitive Tasks**
 
 **Actionable Tip:** List all tasks that are repetitive and time-consuming. Focus on areas like inventory tracking, invoice generation, and order processing.
 
@@ -16,7 +16,7 @@ Running a small business in industries such as engineering, manufacturing, and t
 
 **Context:** In a typical day, your staff might spend hours manually updating inventory or generating invoices. Automation tools can handle these tasks in seconds, ensuring accuracy and freeing your team to work on more critical projects.
 
-### 2. **Utilise Workflow Automation Tools**
+### **2. Utilise Workflow Automation Tools**
 
 **Actionable Tip:** Explore tools like Zapier and IFTTT to create automated workflows between your existing software applications.
 
@@ -24,7 +24,7 @@ Running a small business in industries such as engineering, manufacturing, and t
 
 **Context:** Think of how often you need to transfer data from one application to another. With Zapier or IFTTT, you can set up workflows that automatically handle these transfers, ensuring seamless integration between your software systems.
 
-### 3. **Automate Inventory Management**
+### **3. Automate Inventory Management**
 
 **Actionable Tip:** Implement inventory management software that tracks stock levels in real-time and triggers automatic reordering.
 
@@ -32,7 +32,7 @@ Running a small business in industries such as engineering, manufacturing, and t
 
 **Context:** Inventory mismanagement can lead to lost sales or excessive holding costs. Real-time tracking and automated reordering ensure you always have the right amount of stock, reducing waste and improving customer satisfaction.
 
-### 4. **Streamline Communication**
+### 4. Streamline Communication**
 
 **Actionable Tip:** Use tools like Slack or Microsoft Teams to automate routine communications and updates.
 
