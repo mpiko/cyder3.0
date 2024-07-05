@@ -1,0 +1,1 @@
+https://blog.hubspot.com/marketing/chatgpt-prompts
