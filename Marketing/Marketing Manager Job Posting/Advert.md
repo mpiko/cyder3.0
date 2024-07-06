@@ -1,43 +1,38 @@
-### Job Posting: Marketing Manager for Facebook Campaigns
+**Job Title:** Facebook Campaign Manager for Cyder Solutions
 
-**Title:** Marketing Manager for Facebook Campaigns (Australia/New Zealand)
+**Job Description:**
+Cyder Solutions is seeking an experienced and dedicated Marketing Manager to primarily manage our Facebook campaigns. This role may also involve other marketing activities such as making recommendations for our website, creating social posts, generating lead magnets, and more.
 
-**Description:**
-Cyder Solutions is seeking an experienced and results-driven Marketing Manager to join our team. This role primarily focuses on managing our Facebook campaigns, with potential involvement in other marketing activities as needed. 
+**Key Responsibilities:**
+- Create, manage, and update Facebook ads end-to-end.
+- Develop and implement a comprehensive Facebook advertising strategy.
+- Monitor and analyze campaign performance, adjusting strategies as necessary to improve results.
+- Provide recommendations for website improvements to enhance lead generation and conversion.
+- Develop and schedule social media posts to engage our audience.
+- Generate and manage lead magnets to attract and convert potential clients.
+- Ensure campaigns align with our brand and marketing objectives.
 
-**Responsibilities:**
-- Develop and implement a comprehensive Facebook marketing strategy
-- Manage and optimise Facebook ad campaigns to generate high-quality leads
-- Monitor campaign performance and adjust strategies to improve conversion rates
-- Conduct market research and competitor analysis to inform campaign strategies
-- Provide regular performance reports and insights
-- Collaborate with the team to align marketing efforts with business goals
+**Initial Engagement:**
+- The initial engagement will be 4 hours to introduce and develop a strategy.
+- Following the initial engagement, the role will require a few hours per week on an ongoing basis.
+- Performance outcomes will be measured based on the quality and quantity of leads generated, as well as conversion rates.
 
-**Requirements:**
-- Proven experience managing successful Facebook ad campaigns
-- Strong understanding of digital marketing principles and best practices
-- Excellent analytical skills with the ability to interpret data and make data-driven decisions
-- Good references from previous clients or employers
-- Must be a solo freelancer (no agencies)
-- Candidates must be based in Australia or New Zealand
+**Qualifications:**
+- Proven experience in managing Facebook ad campaigns.
+- Strong understanding of social media marketing strategies.
+- Ability to provide actionable insights and recommendations for website and marketing improvements.
+- Experience in creating engaging social media content and lead magnets.
+- Must be a solo freelancer - no agencies.
+- Candidates must be based in Australia/New Zealand.
+- Must have good references and a track record of successful campaigns.
 
-**Hours:**
-- Initial 4-hour session to develop a strategy
-- Ongoing support estimated at a few hours per week
+**Why Join Cyder Solutions?**
+- Opportunity to grow with the role and take on more responsibilities over time.
+- Work with a dynamic and forward-thinking team.
+- Make a significant impact on our lead generation and conversion efforts.
 
-**Performance Outcomes:**
-- Quality and quantity of leads generated
-- Improved conversion rates
+**About Cyder Solutions:**
+Cyder Solutions is a leading provider of business process automation and ERP implementation services. We specialise in helping small to medium-sized businesses streamline their operations, enhance efficiency, and achieve greater profitability through the integration of advanced software solutions such as Odoo, Zapier, IFTTT, and more. Our goal is to empower businesses to operate more effectively and achieve their strategic objectives with tailored, innovative solutions.
 
-If you are a talented marketing professional with a track record of success in Facebook advertising and you meet the above criteria, we would love to hear from you. Please apply with your resume, references, and a brief summary of your relevant experience.
-
-**Budget:**
-- Please provide your hourly rate.
-
-**Application:**
-- Submit your proposal outlining your approach to this role and how you plan to achieve the desired outcomes. Include any case studies or examples of past successful campaigns.
-
-**Contact:**
-- [Your Contact Information]
-
-Join Cyder Solutions and help us drive our marketing efforts to the next level!
+**How to Apply:**
+If you are a passionate and results-driven marketing professional, we would love to hear from you. Please submit your proposal on Upwork, including your resume, references, and a brief overview of your relevant experience. Include examples of successful campaigns you have managed and the results achieved.
