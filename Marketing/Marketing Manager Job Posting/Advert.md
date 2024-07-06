@@ -6,7 +6,7 @@ Cyder Solutions is seeking an experienced and dedicated Marketing Manager to pri
 **Key Responsibilities:**
 - Create, manage, and update Facebook ads end-to-end.
 - Develop and implement a comprehensive Facebook advertising strategy.
-- Monitor and analyze campaign performance, adjusting strategies as necessary to improve results.
+- Monitor and analyse campaign performance, adjusting strategies as necessary to improve results.
 - Provide recommendations for website improvements to enhance lead generation and conversion.
 - Develop and schedule social media posts to engage our audience.
 - Generate and manage lead magnets to attract and convert potential clients.
