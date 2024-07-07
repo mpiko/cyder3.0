@@ -5,6 +5,8 @@ Output - Upworks input
 [[Set up Scenario in Make.com#^c3edab]]
 Output - Upworks with and RSS feed
 [[Set up Scenario in Make.com#^1fc732]]
+Blueprint
+[[Set up Scenario in Make.com#^5434e7]]
 
 ## Prompt
 I would like to leverage make.com to provide a feed to ChatGPT to analyse and tell me what pain points people are experiencing, what we can offer them to resolve those issues, and what services we can offer. I am not looking for a response to every post. I am looking for a good summary and, importantly, a good fit for Cyder Solutions. Can you please provide a make.com blueprint?
@@ -332,7 +334,6 @@ Certainly! Including an RSS feed to initiate the flow will ensure that the lates
    - **Details**:
      - Aggregate the responses from ChatGPT into a comprehensive summary.
      - Highlight key pain points, suggested solutions, and recommended services.
-
 7. **Action: Create and Send Report**
    - **Module**: Email Module / Google Docs Module
    - **Details**:
@@ -415,3 +416,155 @@ Prepared by Cyder Solutions
 ```
 
 By implementing this Make.com blueprint, you can automate the process of collecting and analyzing job requests from Upwork, providing valuable insights and actionable recommendations to enhance your service offerings.
+
+---
+## Blueprint
+
+^5434e7
+
+Creating a Make.com blueprint involves defining the entire scenario step by step in a format that can be imported into Make.com. Below is the JSON structure of the Make.com blueprint. You'll need to copy this JSON structure and import it into your Make.com account.
+
+### Make.com Blueprint JSON
+
+```json
+{
+  "name": "Upwork Job Request Analysis",
+  "description": "Automatically collect and analyze Upwork job requests to identify pain points and suggest solutions for Cyder Solutions.",
+  "version": 1,
+  "team_id": "your_team_id",
+  "items": [
+    {
+      "name": "Watch RSS Feed",
+      "module": "rss",
+      "action": "watchFeed",
+      "parameters": {
+        "url": "https://www.upwork.com/ab/feed/jobs/rss?contractor_tier=1%2C2%2C3&verified_payment_only=1&sort=recency&paging=0%3B10&api_params=1&q=automation&securityToken=your_security_token&userUid=your_user_uid&orgUid=your_org_uid",
+        "polling_interval": 900
+      },
+      "output": {
+        "bundle": {
+          "content": {
+            "title": "{{title}}",
+            "description": "{{description}}",
+            "pubDate": "{{pubDate}}"
+          }
+        }
+      }
+    },
+    {
+      "name": "Text Parser",
+      "module": "tools",
+      "action": "parseText",
+      "parameters": {
+        "data": "Description: {{description}}",
+        "parser": "your_parser_id"
+      },
+      "output": {
+        "bundle": {
+          "content": {
+            "parsed_description": "{{parsed_description}}"
+          }
+        }
+      }
+    },
+    {
+      "name": "Format Data for ChatGPT",
+      "module": "tools",
+      "action": "jsonBuilder",
+      "parameters": {
+        "json": {
+          "job_requests": [
+            {
+              "title": "{{title}}",
+              "description": "{{parsed_description}}",
+              "date_posted": "{{pubDate}}"
+            }
+          ]
+        }
+      },
+      "output": {
+        "bundle": {
+          "content": {
+            "json": "{{json}}"
+          }
+        }
+      }
+    },
+    {
+      "name": "Analyze Data with ChatGPT",
+      "module": "http",
+      "action": "post",
+      "parameters": {
+        "url": "https://api.openai.com/v1/engines/davinci-codex/completions",
+        "headers": {
+          "Authorization": "Bearer your_openai_api_key",
+          "Content-Type": "application/json"
+        },
+        "payload": {
+          "prompt": "Analyze the following job requests from Upwork and identify the main pain points that clients are experiencing. Based on these pain points, suggest solutions and recommend relevant services that Cyder Solutions can offer to address these issues. Provide a summary that highlights key pain points, suggested solutions, and recommended services.\n\nJob Requests:\n{{json}}\n\nPlease ensure the output is structured as follows:\n1. Summary of Pain Points\n2. Suggested Solutions\n3. Recommended Services",
+          "max_tokens": 500
+        }
+      },
+      "output": {
+        "bundle": {
+          "content": {
+            "choices[0].text": "{{analysis}}"
+          }
+        }
+      }
+    },
+    {
+      "name": "Create Summary Report",
+      "module": "tools",
+      "action": "textAggregator",
+      "parameters": {
+        "texts": [
+          "### Customer Pain Point Analysis Report\n\n**Date**: {{now}}\n\n**Summary of Pain Points**:\n{{analysis}}\n\n---\n\nPrepared by Cyder Solutions"
+        ],
+        "separator": "\n\n"
+      },
+      "output": {
+        "bundle": {
+          "content": {
+            "aggregated_text": "{{aggregated_text}}"
+          }
+        }
+      }
+    },
+    {
+      "name": "Send Report via Email",
+      "module": "email",
+      "action": "sendEmail",
+      "parameters": {
+        "to": "stakeholders@cyder.solutions",
+        "subject": "Customer Pain Point Analysis Report",
+        "html": "{{aggregated_text}}"
+      }
+    }
+  ]
+}
+```
+
+### Steps to Import the Blueprint into Make.com
+
+1. **Login to Make.com**: Sign in to your Make.com account.
+
+2. **Create a New Scenario**:
+   - Navigate to the dashboard.
+   - Click on "Create a new scenario."
+
+3. **Import the JSON Blueprint**:
+   - Click on the three dots in the upper right corner.
+   - Select "Import blueprint."
+   - Paste the JSON structure provided above into the import window.
+   - Click "Import."
+
+4. **Configure Specific Details**:
+   - Replace placeholder values such as `your_team_id`, `your_security_token`, `your_user_uid`, `your_org_uid`, `your_openai_api_key` with your actual credentials.
+   - Ensure the RSS feed URL is correctly formatted to fetch job posts relevant to your needs.
+   - Adjust any module parameters as needed to fit your specific requirements.
+
+5. **Activate the Scenario**:
+   - Once everything is set up and configured, activate the scenario to start the automated process.
+
+This blueprint sets up an automated flow to monitor Upwork job posts via RSS, process the job descriptions, analyze them using ChatGPT, and send a summarized report via email to the relevant stakeholders at Cyder Solutions.
