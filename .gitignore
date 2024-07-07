@@ -1,3 +1,5 @@
 .obsidian
 .~lock*
 */.~lock*
+'.$*.bkp'
+*/'.$*.bkp'
