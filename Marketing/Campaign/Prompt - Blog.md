@@ -12,6 +12,7 @@ Thursday
 Friday, Saturday, and Sunday
 - No Posts
 The target audience is very small to medium business owners likely to have less than 10 staff. Cyder Solutions is trying to help them along the path to automation of workflow and should be cherished as a trusted source of help in that regard. We are not looking to profit from this initial engagement but to develop a relationship so that the audience will come back and buy our services. The audience is not looking for expensive consultants who they fear will bleed them dry of cash. They are looking for people who will help them out. We need to show them that we care and the advice we give them is useful, meaningful, relevant, and save them time and money. It should not be "salesy" at all. 
+Most importantly, all advice needs to be actionable.
 
 Please create an outline of blog posts for the entire 8 weeks
 Please create an outline of quick tips to cover the complete 8 weeks
