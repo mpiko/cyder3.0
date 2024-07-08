@@ -4,8 +4,6 @@ Marketing manager
 
 Fb ads
 
-ChatGPT - Tips on how to increase lead gen through automation
-
 ---
 ### Schedule
 Monday: Create Blog -  Create blog and schedule notice to post to socials
