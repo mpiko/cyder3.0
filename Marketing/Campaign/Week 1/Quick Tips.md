@@ -13,7 +13,9 @@ Tired of typing out the same responses over and over again? Save valuable time b
 2. Create templates for each of these.
 3. Save them in your email client or a document for easy access.
 
-Start using email templates today and see the difference it makes! #Efficiency #TimeSaver #EmailTips #SmallBusiness #CyderSolutions
+Start using email templates today and see the difference it makes!
+https://www.cyder.com.au/blog/automation-8/the-benefits-of-automating-small-business-workflows-44
+#Efficiency #TimeSaver #EmailTips #SmallBusiness #CyderSolutions
 
 ---
 
@@ -28,7 +30,9 @@ Never miss an important follow-up again! Automated reminders can help you stay o
 2. Set reminders for your tasks and deadlines.
 3. Let the automation handle the rest.
 
-Keep your tasks on track effortlessly! #Productivity #Automation #FollowUpTips #SmallBusiness #CyderSolutions
+Keep your tasks on track effortlessly! 
+https://www.cyder.com.au/blog/automation-8/the-benefits-of-automating-small-business-workflows-44
+#Productivity #Automation #FollowUpTips #SmallBusiness #CyderSolutions
 
 ---
 
@@ -43,7 +47,9 @@ Say goodbye to missed appointments and deadlines! A digital calendar can help yo
 2. Set reminders for important dates.
 3. Share with your team for better coordination.
 
-Stay organized and on top of your schedule with a digital calendar! #Organization #DigitalTools #CalendarTips #SmallBusiness #CyderSolutions
+Stay organised and on top of your schedule with a digital calendar!
+https://www.cyder.com.au/blog/automation-8/the-benefits-of-automating-small-business-workflows-44
+#Organization #DigitalTools #CalendarTips #SmallBusiness #CyderSolutions
 
 ---
 
