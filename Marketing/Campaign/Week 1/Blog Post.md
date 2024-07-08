@@ -1,4 +1,5 @@
 Title: The Benefits of Automating Small Business Workflows
+URL: https://www.cyder.com.au/blog/automation-8/the-benefits-of-automating-small-business-workflows-44
 
 In today’s fast-paced business environment, small business owners are constantly juggling multiple tasks and responsibilities. Finding ways to streamline operations and improve efficiency is crucial. One effective strategy is automating workflows. Automation can transform how you run your business, saving you time, reducing costs, and minimising errors. In this blog post, we’ll explore the benefits of workflow automation and how small businesses can start implementing it.
 ### Key Benefits of Workflow Automation:
