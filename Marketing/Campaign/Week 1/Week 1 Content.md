@@ -1,4 +1,4 @@
-W
+### Week 1 Content
 Title: The Benefits of Automating Small Business Workflows
 URL: https://www.cyder.com.au/blog/automation-8/the-benefits-of-automating-small-business-workflows-44
 
