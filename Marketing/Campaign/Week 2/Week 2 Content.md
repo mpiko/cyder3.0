@@ -2,7 +2,7 @@
 
 **Title:** How to Identify Processes for Automation in Your Small Business
 
-**URL:** [Insert Blog Link]
+**URL:** https://www.cyder.com.au/blog/automation-8/how-to-identify-processes-for-automation-in-your-small-business-45
 
 In today's fast-paced business environment, identifying which processes to automate can be a game-changer for small businesses. Automation can save time, reduce costs, and improve efficiency. This blog post will guide you through common processes that can be automated, criteria for selecting these processes, and real-life examples of successful automation.
 
@@ -35,44 +35,51 @@ By identifying and automating suitable processes, small businesses can enhance e
 **Social Media Post (Tuesday):**
 
 🌟 New Blog Post Alert! 🌟
-Learn how to identify processes in your small business that can be automated for maximum efficiency. Read our latest blog post: [Insert Blog Link]
+Learn how to identify processes in your small business that can be automated for maximum efficiency. Read our latest blog post: https://www.cyder.com.au/blog/automation-8/how-to-identify-processes-for-automation-in-your-small-business-45
+
 #SmallBusiness #Automation #Efficiency #CyderSolutions
 
 ---
 
-**Quick Tip #1 (Wednesday):**
-**📊 Quick Tip #1: Create Automated Reports to Track Key Metrics!**
+**Quick Tip #4 (Wednesday):**
+**📊 Quick Tip #4: Create Automated Reports to Track Key Metrics!**
 Save time and ensure accuracy by automating your business reports. Tools like Google Data Studio and Microsoft Power BI can help you generate reports automatically, providing real-time insights into your key metrics.
 ➡️ How to get started:
 1. Identify the key metrics you need to track.
 2. Choose a reporting tool that suits your needs.
 3. Set up automated data collection and report generation.
 
+Read our latest blog post: https://www.cyder.com.au/blog/automation-8/how-to-identify-processes-for-automation-in-your-small-business-45
+
 Track your performance effortlessly with automated reports!
 #DataDriven #Automation #BusinessIntelligence #SmallBusiness #CyderSolutions
 
 ---
 
-**Quick Tip #2 (Thursday):**
-**☁️ Quick Tip #2: Use Cloud Storage to Ensure Documents Are Accessible Anywhere!**
+**Quick Tip #5 (Thursday):**
+**☁️ Quick Tip #5: Use Cloud Storage to Ensure Documents Are Accessible Anywhere!**
 Keep your important documents safe and accessible from anywhere with cloud storage solutions like Google Drive, Dropbox, or OneDrive. Cloud storage not only provides easy access but also ensures your data is backed up securely.
 ➡️ Benefits of cloud storage:
 1. Access documents from any device.
 2. Collaborate with your team in real-time.
 3. Ensure data is securely backed up.
 
+Read our latest blog post: https://www.cyder.com.au/blog/automation-8/how-to-identify-processes-for-automation-in-your-small-business-45
+
 Stay organised and efficient with cloud storage!
 #CloudStorage #Productivity #DataSecurity #SmallBusiness #CyderSolutions
 
 ---
 
-**Quick Tip #3 (Friday):**
-**📅 Quick Tip #3: Automate Social Media Posts Using Scheduling Tools!**
+**Quick Tip #6 (Friday):**
+**📅 Quick Tip #6: Automate Social Media Posts Using Scheduling Tools!**
 Maintain a consistent social media presence without the hassle of manual posting. Tools like Buffer, Hootsuite, and Later allow you to schedule posts in advance, ensuring your content goes live at the optimal times.
 ➡️ How to use scheduling tools:
 1. Create your social media content.
 2. Choose a scheduling tool that fits your needs.
 3. Schedule your posts to go live at the best times.
+
+Read our latest blog post: https://www.cyder.com.au/blog/automation-8/how-to-identify-processes-for-automation-in-your-small-business-45
 
 Keep your audience engaged with automated social media posts!
 #SocialMedia #Automation #ContentScheduling #SmallBusiness #CyderSolutions
