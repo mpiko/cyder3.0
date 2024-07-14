@@ -18,6 +18,10 @@ Most importantly, all advice needs to be actionable. Keep the output informative
 
 The topics are identified in the attached schedule.
 
-This week is week 2.
+This week is week 3
 Important points for this week: 
-
+- keeping and existing customer is far cheaper then acquiring a new one
+- the better you know your customer the better you can serve them, the more referrals
+- Good CRM tools and practices help generate leads, convert, and repeat sell
+- The longer a lead has to wait for a response, the more likely you will miss out on the sale. 
+- Automate the hell out of your sales process where you with a well crafted AI prompt no-one would ever expect was AI generated - or AI can assist and speed up the response by at least 10x.
