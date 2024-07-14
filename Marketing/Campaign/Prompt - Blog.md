@@ -19,4 +19,5 @@ Most importantly, all advice needs to be actionable. Keep the output informative
 The topics are identified in the attached schedule.
 
 This week is week 2.
+Important points for this week: 
 
