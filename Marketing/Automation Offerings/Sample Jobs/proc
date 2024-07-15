@@ -1,0 +1,12 @@
+#!/bin/bash
+
+OUT=jobs
+IFS="
+"
+
+for F in $(ls -1)
+do 
+    echo $F
+    echo $F >> $OUT
+    cat $F >> $OUT
+done
