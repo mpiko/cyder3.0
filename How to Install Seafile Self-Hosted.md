@@ -200,7 +200,7 @@ Exit the shell.
 
 	exit
 
-Step 5 - Create a Seafile directory and user
+### Step 5 - Create a Seafile directory and user
 
 Create the directory for Seafile's program files.
 
@@ -226,7 +226,7 @@ Change the ownership of the directory to the new user.
 
 	sudo chown -R seafile: /opt/seafile
 
-Step 6 - Download and Install Seafile
+### Step 6 - Download and Install Seafile
 
 Log in as the Seafile user. Enter your user password when prompted.
 
@@ -333,9 +333,10 @@ This is your configuration
     database user:          seafile
 
 
----------------------------------
+---
+
 Press ENTER to continue, or Ctrl-C to abort
----------------------------------
+----
 
 You will see the following screen if the installation was successful.
 
@@ -378,7 +379,7 @@ port of seahub:               8000
 
 When problems occur, Refer to https://download.seafile.com/published/seafile-manual/home.md for information.
 
-Step 7 - Start Seafile Server
+### Step 7 - Start Seafile Server
 
 Switch to the /opt/seafile/seafile-server-latest directory.
 
