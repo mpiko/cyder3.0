@@ -22,7 +22,10 @@ The topics are identified in the attached schedule.
 
 This week is week 4
 Important points for this week's topic: 
-- Labourious tasks are draining and boring
+- Laborious repetitive tasks are time wasters, tedious, draining, and boring
+- Disparate system are isolated by a mote if nothingness. Glue systems like Make.com can join your favourite tools together.
+- Work smarter not harder. Spend more time on the fun stuff and automate the tedious.
+- Labour is the most precious resource but, at the same time, the biggest single cost and risk to a business. Particularly when the business relies on individuals with all the "knowledge" 
 
 Week 1 Example:
 Title: The Benefits of Automating Small Business Workflows
