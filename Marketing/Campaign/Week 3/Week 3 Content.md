@@ -38,7 +38,7 @@ Implementing a good CRM system can transform your small business by enhancing cu
 **Social Media Post (Tuesday):**
 
 🌟 New Blog Post Alert! 🌟
-Learn why a good CRM system is essential for small businesses and how it can help you manage customer relationships, streamline processes, and improve profitability. Read our latest blog post: [https://www.cyder.com.au/blog/automation-8/the-need-for-a-good-crm-46](https://www.cyder.com.au/blog/automation-8/the-need-for-a-good-crm-46)
+Learn why a good CRM system is essential for small businesses and how it can help you manage customer relationships, streamline processes, and improve profitability. Read our latest blog post: https://www.cyder.com.au/blog/automation-8/the-need-for-a-good-crm-46
 
 #SmallBusiness #CRM #CustomerRelationships #Automation #CyderSolutions
 
@@ -46,18 +46,19 @@ Learn why a good CRM system is essential for small businesses and how it can hel
 
 **Quick Tip #7 (Wednesday):**
 
-**📇 Quick Tip #7: Set Up a CRM to Manage Customer Relationships!**
-A CRM system helps you keep track of customer interactions, ensuring timely and personalized follow-ups. Choose a CRM that fits your business needs and start managing your customer relationships more effectively.
+📇 Quick Tip #7: Set Up a CRM to Manage Customer Relationships!
+A CRM system helps you keep track of customer interactions, ensuring timely and personalised follow-ups. Choose a CRM that fits your business needs and start managing your customer relationships more effectively.
 
 ➡️ How to get started:
 1. Identify your business needs.
 2. Choose a CRM system that fits those needs.
 3. Start entering customer data and setting up automated workflows.
 
-Read our latest blog post: [https://www.cyder.com.au/blog/automation-8/the-need-for-a-good-crm-46](https://www.cyder.com.au/blog/automation-8/the-need-for-a-good-crm-46)
+Read our latest blog post: https://www.cyder.com.au/blog/automation-8/the-need-for-a-good-crm-46
 
 Enhance your customer relationships with a CRM system!
-#CustomerManagement #CRM #SmallBusiness #CyderSolutions
+
+#CustomerManagement #CRM #SmallBusiness 
 
 ---
 
@@ -71,7 +72,7 @@ Gathering customer feedback is essential for improving your services. Use automa
 2. Create your survey questions.
 3. Set up the survey to be sent automatically after specific customer interactions.
 
-Read our latest blog post: [https://www.cyder.com.au/blog/automation-8/the-need-for-a-good-crm-46](https://www.cyder.com.au/blog/automation-8/the-need-for-a-good-crm-46)
+Read our latest blog post: https://www.cyder.com.au/blog/automation-8/the-need-for-a-good-crm-46
 
 Get valuable insights with automated surveys!
 #CustomerFeedback #Automation #SmallBusiness #CyderSolutions
@@ -88,9 +89,8 @@ Save time and ensure quick responses by setting up auto-responses for FAQs. This
 2. Create clear and helpful responses for these questions.
 3. Set up auto-responses in your CRM or email system.
 
-Read our latest blog post: [https://www.cyder.com.au/blog/automation-8/the-need-for-a-good-crm-46](https://www.cyder.com.au/blog/automation-8/the-need-for-a-good-crm-46)
+Read our latest blog post: https://www.cyder.com.au/blog/automation-8/the-need-for-a-good-crm-46
 
 Enhance customer satisfaction with auto-responses!
 #CustomerService #Automation #SmallBusiness #CyderSolutions
 
-Feel free to reach out if you need further adjustments or additional content.
