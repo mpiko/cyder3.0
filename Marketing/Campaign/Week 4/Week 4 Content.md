@@ -40,9 +40,9 @@ Learn how to glue your favorite tools together with Make.com to automate repetit
 
 ---
 
-**Quick Tip #4 (Wednesday):**
+**Quick Tip #10 (Wednesday):**
 
-**🔧 Quick Tip #4: Make.com - Facebook Ads Pumped into Your CRM in the Blink of an Eye!**
+🔧 Quick Tip #10: Make.com - Facebook Ads Pumped into Your CRM in the Blink of an Eye!
 Automate the process of importing leads from Facebook Ads directly into your CRM with Make.com. This ensures that no potential customer is missed and that your sales team can follow up promptly.
 
 ➡️ How to get started:
@@ -57,9 +57,9 @@ Streamline your lead management with Make.com!
 
 ---
 
-**Quick Tip #5 (Thursday):**
+**Quick Tip #11 (Thursday):**
 
-**📈 Quick Tip #5: Auto-Update Google Sheets with Sales Summaries!**
+📈 Quick Tip #11: Auto-Update Google Sheets with Sales Summaries!
 Keep your sales data up-to-date automatically by linking your sales platform with Google Sheets through Make.com. This ensures that your sales summaries are always accurate and current.
 
 ➡️ How to get started:
@@ -74,15 +74,15 @@ Stay on top of your sales data effortlessly!
 
 ---
 
-**Quick Tip #6 (Friday):**
+Quick Tip #12 (Friday):
 
-**🔄 Quick Tip #6: Set Up Workflow Automation for Repetitive Tasks!**
+🔄 Quick Tip #12: Set Up Workflow Automation for Repetitive Tasks!
 Automate repetitive tasks like data entry, email responses, and social media posting with Make.com. This frees up your time for more strategic activities and ensures consistency and accuracy.
 
 ➡️ How to get started:
 1. Identify tasks that are repetitive and time-consuming.
 2. Use Make.com to create automated workflows for these tasks.
-3. Monitor and adjust as needed to optimize performance.
+3. Monitor and adjust as needed to optimise performance.
 
 Read our latest blog post: https://www.cyder.com.au/blog/automation-8/gluing-your-favourite-tools-together-with-make.com-47
 
