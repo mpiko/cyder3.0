@@ -13,10 +13,16 @@ Config
 
 ```text
 Installation
-Standard Bird Bath in back yard.
+Standard Bird Bath in back yard. 
+Plumbed in from rear of house with a 4m long trench.
+Clear access. Trench will have no obstructions or concrete walkways in it's path.
 
 Services
 Power on site. Easy access via driveway to the rear of the property.
+
+Location
+The new Bird Bath is to go on the "X"
+Owner has put a stake in the ground at the correct location.
 ```
 
 
