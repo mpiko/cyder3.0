@@ -161,9 +161,10 @@
   },
   "active": "42c042608fe10f3c",
   "lastOpenFiles": [
-    "cs_job_card/2. SO Confirmation.md",
-    "cs_job_card/1. Lead to SO.md",
     "cs_job_card/0. Setup.md",
+    "cs_job_card/1. Lead to SO.md",
+    "cs_job_card/2. SO Confirmation.md",
+    "cs_job_card/3. RFQ Purchasing Process.md",
     "cs_job_card/Marketing/Index by chatgpt.md",
     "cs_job_card/Marketing/index.html",
     "cs_job_card/Marketing/index2.html",
@@ -195,7 +196,6 @@
     "Marketing/Campaign/temp.md",
     "Set.md",
     "Pandoc.md",
-    "Marketing/Campaign/Socials Schedule.md",
-    "Marketing/Marketing Manager Job Posting/Prompt.md"
+    "Marketing/Campaign/Socials Schedule.md"
   ]
 }
