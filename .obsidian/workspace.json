@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs_job_card/3. RFQ Purchasing Process.md",
+                "file": "cs_job_card/1. Intro.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs_job_card/3. RFQ Purchasing Process.md",
+                "file": "cs_job_card/1. Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs_job_card/3. RFQ Purchasing Process.md",
+                "file": "cs_job_card/1. Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs_job_card/3. RFQ Purchasing Process.md"
+                "file": "cs_job_card/1. Intro.md"
               }
             }
           }
@@ -162,7 +162,7 @@
   "active": "42c042608fe10f3c",
   "lastOpenFiles": [
     "cs_job_card/2. SO Confirmation.md",
-    "cs_job_card/1. Lead to SO.md",
+    "cs_job_card/1. Intro.md",
     "cs_job_card/0. Setup.md",
     "cs_job_card/3. RFQ Purchasing Process.md",
     "cs_job_card/Marketing/Index by chatgpt.md",
