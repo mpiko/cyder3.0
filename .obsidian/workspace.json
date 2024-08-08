@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cs_job_card/0. Setup.md",
+                "file": "NDAs and other Agreements/Retainer Agreement/Cyder Solutions Retainer Agreement.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs_job_card/0. Setup.md",
+                "file": "NDAs and other Agreements/Retainer Agreement/Cyder Solutions Retainer Agreement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs_job_card/0. Setup.md",
+                "file": "NDAs and other Agreements/Retainer Agreement/Cyder Solutions Retainer Agreement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs_job_card/0. Setup.md"
+                "file": "NDAs and other Agreements/Retainer Agreement/Cyder Solutions Retainer Agreement.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "42c042608fe10f3c",
   "lastOpenFiles": [
+    "cs_job_card/0. Setup.md",
     "How to Install Seafile Self-Hosted.md",
     "NDAs and other Agreements/Retainer Agreement/Cyder Solutions Retainer Agreement.md",
     "NDAs and other Agreements/Retainer Agreement/Prompt.md",
@@ -170,7 +171,6 @@
     "cs_job_card/Marketing/index2.html~",
     "cs_job_card/Marketing/index2.html",
     "cs_job_card/2. SO Confirmation.md",
-    "cs_job_card/0. Setup.md",
     "cs_job_card/3. RFQ Purchasing Process.md",
     "cs_job_card/Marketing/Index by chatgpt.md",
     "cs_job_card/Marketing/index.html",
