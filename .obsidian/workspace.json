@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NDAs and other Agreements/Retainer Agreement/Cyder Solutions Retainer Agreement.md",
+                "file": "cs_job_card/0. Setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NDAs and other Agreements/Retainer Agreement/Cyder Solutions Retainer Agreement.md",
+                "file": "cs_job_card/0. Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NDAs and other Agreements/Retainer Agreement/Cyder Solutions Retainer Agreement.md",
+                "file": "cs_job_card/0. Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NDAs and other Agreements/Retainer Agreement/Cyder Solutions Retainer Agreement.md"
+                "file": "cs_job_card/0. Setup.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "42c042608fe10f3c",
   "lastOpenFiles": [
+    "cs_job_card/2. SO Confirmation.md",
+    "cs_job_card/1. Intro.md",
+    "NDAs and other Agreements/Retainer Agreement/Cyder Solutions Retainer Agreement.md",
     "cs_job_card/0. Setup.md",
     "How to Install Seafile Self-Hosted.md",
-    "NDAs and other Agreements/Retainer Agreement/Cyder Solutions Retainer Agreement.md",
     "NDAs and other Agreements/Retainer Agreement/Prompt.md",
     "NDAs and other Agreements/Retainer Agreement/Rates.md",
     "NDAs and other Agreements/NON-DISCLOSURE AGREEMENT (NDA).md",
@@ -161,7 +163,6 @@
     "cs_job_card/Marketing/JC002-job_card_small.png",
     "cs_job_card/Marketing/JC0002_small.png",
     "cs_job_card/Marketing/JC0002.png",
-    "cs_job_card/1. Intro.md",
     "cs_job_card/Marketing/cyder.png",
     "cs_job_card/Marketing/JC002-PO_small.png",
     "cs_job_card/Marketing/JC002-PO.png",
@@ -170,7 +171,6 @@
     "cs_job_card/Marketing/JC002-job_card.png",
     "cs_job_card/Marketing/index2.html~",
     "cs_job_card/Marketing/index2.html",
-    "cs_job_card/2. SO Confirmation.md",
     "cs_job_card/3. RFQ Purchasing Process.md",
     "cs_job_card/Marketing/Index by chatgpt.md",
     "cs_job_card/Marketing/index.html",
