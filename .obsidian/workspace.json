@@ -11,12 +11,8 @@
             "id": "42c042608fe10f3c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cs_job_card/0. Setup.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cs_job_card/0. Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cs_job_card/0. Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "cs_job_card/0. Setup.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,10 +140,13 @@
   },
   "active": "42c042608fe10f3c",
   "lastOpenFiles": [
+    "cs_job_card/4. Booking.md",
+    "cs_job_card/5. In Progress.md",
+    "cs_job_card/6. Send Invoice.md",
+    "cs_job_card/0. Setup.md",
     "cs_job_card/2. SO Confirmation.md",
     "cs_job_card/1. Intro.md",
     "NDAs and other Agreements/Retainer Agreement/Cyder Solutions Retainer Agreement.md",
-    "cs_job_card/0. Setup.md",
     "How to Install Seafile Self-Hosted.md",
     "NDAs and other Agreements/Retainer Agreement/Prompt.md",
     "NDAs and other Agreements/Retainer Agreement/Rates.md",
@@ -190,9 +185,6 @@
     "Marketing/Campaign/Week 5/TODO.md",
     "Marketing/Campaign/Week 5",
     "Marketing/Campaign/Week 4/TODO.md",
-    "6. Marketing Strategy.md",
-    "Marketing/Suggest Offerings using ChatGPT/Set up Scenario in Make.com.md",
-    "Marketing/Automation Offerings/1. Service Offering - Immediate Automation Setup.md",
-    "Marketing/Campaign/Week 1/Blog Post.md"
+    "6. Marketing Strategy.md"
   ]
 }
