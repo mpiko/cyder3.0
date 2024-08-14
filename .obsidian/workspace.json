@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marketing/Recruiting Sales-Business Development Manager/From ChatGPT.md",
+                "file": "Marketing/1. Sales-Business Development Manager/From ChatGPT.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing/Recruiting Sales-Business Development Manager/From ChatGPT.md",
+                "file": "Marketing/1. Sales-Business Development Manager/From ChatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing/Recruiting Sales-Business Development Manager/From ChatGPT.md",
+                "file": "Marketing/1. Sales-Business Development Manager/From ChatGPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marketing/Recruiting Sales-Business Development Manager/From ChatGPT.md"
+                "file": "Marketing/1. Sales-Business Development Manager/From ChatGPT.md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42c042608fe10f3c",
+  "active": "01df7151db7a7df9",
   "lastOpenFiles": [
-    "Marketing/Recruiting Sales-Business Development Manager/From ChatGPT.md",
-    "Marketing/Recruiting Sales-Business Development Manager",
+    "Marketing/1. Sales-Business Development Manager/Cyder 3.0 - Pricing and resourcing.ods",
+    "Marketing/1. Sales-Business Development Manager/From ChatGPT.md",
+    "Marketing/1. Sales-Business Development Manager",
     "cs_job_card/4. Booking.md",
     "cs_job_card/5. In Progress.md",
     "cs_job_card/6. Send Invoice.md",
@@ -192,7 +193,6 @@
     "Marketing/Campaign/Week 7",
     "Marketing/Campaign/Week 6/TODO.md",
     "Marketing/Campaign/Week 6",
-    "Marketing/Campaign/Week 5/TODO.md",
-    "Marketing/Campaign/Week 4/TODO.md"
+    "Marketing/Campaign/Week 5/TODO.md"
   ]
 }
