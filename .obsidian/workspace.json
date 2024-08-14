@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "05943f5155571e29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Marketing Strategy Draft.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Marketing Strategy.md",
+                "file": "6. Marketing Strategy Draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Marketing Strategy.md",
+                "file": "6. Marketing Strategy Draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Marketing Strategy.md"
+                "file": "6. Marketing Strategy Draft.md"
               }
             }
           }
@@ -146,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "42c042608fe10f3c",
+  "active": "05943f5155571e29",
   "lastOpenFiles": [
+    "6. Marketing Strategy.md",
+    "6. Marketing Strategy Draft.md",
     "5. People Strategy.md",
     "3. Organisational Strategy.md",
     "2. Strategic Objective.md",
@@ -190,8 +205,6 @@
     "Marketing/Campaign/ChatGPT output.md",
     "Marketing/Campaign/Week 1/Quick Tips.md",
     "Marketing/Campaign/Week 3/TODO.md",
-    "Marketing/Marketing Manager Job Posting/Advert.md",
-    "Marketing/Campaign/Week 8/TODO.md",
     "Marketing/Campaign/Week 8",
     "Marketing/Campaign/Week 7"
   ]
