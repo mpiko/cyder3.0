@@ -44,7 +44,7 @@ Target Audience Setup:
 5. Custom Audiences: Create a lookalike audience based on your current customer list
 6. Exclude: People who have already converted or visited your landing page
 
-Landing Page Content:
+# Landing Page Content:
 
 Headline: "Automate Your Business, Reclaim Your Time"
 
