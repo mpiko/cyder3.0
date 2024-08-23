@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Marketing Strategy Draft.md",
+                "file": "6. Marketing Strategy 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Marketing Strategy Draft.md",
+                "file": "6. Marketing Strategy 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Marketing Strategy Draft.md",
+                "file": "6. Marketing Strategy 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Marketing Strategy Draft.md"
+                "file": "6. Marketing Strategy 1.md"
               }
             }
           }
@@ -159,13 +159,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "05943f5155571e29",
+  "active": "01df7151db7a7df9",
   "lastOpenFiles": [
+    "Marketing/Untitled",
     "6. Marketing Strategy.md",
-    "6. Marketing Strategy Draft.md",
-    "5. People Strategy.md",
+    "6. Marketing Strategy 1.md",
     "3. Organisational Strategy.md",
     "2. Strategic Objective.md",
+    "Marketing/AI Prompts/Incorporating roles.md",
+    "Marketing/AI Prompts/Developing Prompts.md",
+    "Marketing/AI Prompts/AI Roles.md",
+    "Marketing/AI Prompts/Additional Roles.md",
+    "Marketing/AI Prompts/Add paragraph to web page.md",
+    "Marketing/AI Prompts/Hubspot Example Prompts/9 ChatGPT Prompts for Analytics.md",
+    "6. Marketing Strategy Draft.md",
+    "5. People Strategy.md",
     "1. Primary Aim.md",
     "Marketing/1. Sales-Business Development Manager/From ChatGPT.md",
     "Marketing/1. Sales-Business Development Manager/Cyder 3.0 - Pricing and resourcing.ods",
@@ -182,7 +190,6 @@
     "NDAs and other Agreements/Retainer Agreement/Rates.md",
     "NDAs and other Agreements/NON-DISCLOSURE AGREEMENT (NDA).md",
     "NDAs and other Agreements/Retainer Agreement",
-    "Firewall.md",
     "cs_job_card/Marketing/JC002-list.png",
     "NDAs and other Agreements",
     "cs_job_card/Marketing/JC002-job_card_small.png",
@@ -196,15 +203,8 @@
     "cs_job_card/Marketing/JC002-job_card.png",
     "cs_job_card/Marketing/index2.html~",
     "cs_job_card/Marketing/index2.html",
-    "cs_job_card/3. RFQ Purchasing Process.md",
-    "cs_job_card/Marketing/Index by chatgpt.md",
     "cs_job_card/Marketing/index.html",
     "cs_job_card/Marketing",
-    "Marketing/Campaign/Prompt - Blog.md",
-    "Marketing/Campaign/Week 2/Week 2 Content.md",
-    "Marketing/Campaign/ChatGPT output.md",
-    "Marketing/Campaign/Week 1/Quick Tips.md",
-    "Marketing/Campaign/Week 3/TODO.md",
     "Marketing/Campaign/Week 8",
     "Marketing/Campaign/Week 7"
   ]
