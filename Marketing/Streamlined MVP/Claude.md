@@ -30,7 +30,7 @@ Call-to-Action: "Learn More"
 Description: "Streamline your processes. Boost efficiency. Grow your business."
 
 Suggested Imagery:
-Create a split-screen image. On the left side, show a stressed-out business owner surrounded by papers, multiple screens, and a chaotic office. On the right side, show the same person relaxed on a beach with a laptop, symbolizing working remotely with ease. Use warm, inviting colors to create a contrast between stress and freedom.
+Create a split-screen image. On the left side, show a stressed-out business owner surrounded by papers, multiple screens, and a chaotic office. On the right side, show the same person relaxed on a beach with a laptop, symbolising working remotely with ease. Use warm, inviting colours to create a contrast between stress and freedom.
 
 Target Audience Setup:
 
