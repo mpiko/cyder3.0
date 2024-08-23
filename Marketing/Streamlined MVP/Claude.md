@@ -57,19 +57,19 @@ Body:
 - Eliminate manual data entry errors
 - Free up 90 minutes per job
 
-Our automation services connect your Facebook Ads, CRM, Jobbing Software, and Accounting systems seamlessly. Here's what you get:
+Our automation services connect your Facebook Ads, CRM, Job Software, and Accounting systems seamlessly. Here's what you get:
 
 1. Facebook Ads to CRM Integration
    - 30 minutes saved per lead
    - Zero errors in data transfer
    - Immediate response to potential clients
 
-2. CRM to Jobbing Software Integration
+2. CRM to Job Software Integration
    - 30 minutes saved per job
    - Error-free job creation
    - Instant updates across platforms
 
-3. Jobbing Software to Accounting Integration
+3. Job Software to Accounting Integration
    - 30 minutes saved per invoice
    - Accurate financial records
    - Seamless billing process
