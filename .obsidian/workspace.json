@@ -11,11 +11,9 @@
             "id": "05943f5155571e29",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Marketing/Streamlined MVP/Claude.md",
-                "mode": "source",
-                "source": false
+                "file": "Marketing/Streamlined MVP/Facebook Images/5.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing/Streamlined MVP/Claude.md",
+                "file": "Marketing/Streamlined MVP/Facebook Images/5.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing/Streamlined MVP/Claude.md",
+                "file": "Marketing/Streamlined MVP/Facebook Images/5.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marketing/Streamlined MVP/Claude.md"
+                "file": "Marketing/Streamlined MVP/Facebook Images/5.png"
               }
             }
           }
@@ -148,13 +146,14 @@
   },
   "active": "05943f5155571e29",
   "lastOpenFiles": [
-    "Marketing/Streamlined MVP/5.png",
-    "Marketing/Streamlined MVP/4.png",
-    "Marketing/Streamlined MVP/3.png",
-    "Marketing/Streamlined MVP/2.png",
-    "Marketing/Streamlined MVP/1.png",
-    "Marketing/Streamlined MVP/ChatGPT - Facebook Marketing Campaign Outline.md",
+    "Marketing/Streamlined MVP/Facebook Images/1.png",
+    "Marketing/Streamlined MVP/Facebook Images/5.png",
+    "Marketing/Streamlined MVP/Facebook Images/4.png",
+    "Marketing/Streamlined MVP/Facebook Images/3.png",
+    "Marketing/Streamlined MVP/Facebook Images/2.png",
     "Marketing/Streamlined MVP/Claude.md",
+    "Marketing/Streamlined MVP/Facebook Images",
+    "Marketing/Streamlined MVP/ChatGPT - Facebook Marketing Campaign Outline.md",
     "Marketing/Streamlined MVP/1. Streamlined - Marketing Strategy.md",
     "6. Marketing Strategy.md",
     "Marketing/Streamlined MVP",
@@ -188,11 +187,9 @@
     "cs_job_card/Marketing/JC0002_small.png",
     "cs_job_card/Marketing/JC0002.png",
     "cs_job_card/Marketing/cyder.png",
-    "cs_job_card/Marketing/JC002-PO_small.png",
     "cs_job_card/Marketing/index2.html~",
     "cs_job_card/Marketing/index2.html",
     "cs_job_card/Marketing/index.html",
-    "cs_job_card/Marketing",
-    "Marketing/Campaign/Week 8"
+    "cs_job_card/Marketing"
   ]
 }
