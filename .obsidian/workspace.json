@@ -11,9 +11,11 @@
             "id": "05943f5155571e29",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Marketing/Streamlined MVP/Facebook Images/5.png"
+                "file": "Marketing/Automation Offerings/Pitch.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing/Streamlined MVP/Facebook Images/5.png",
+                "file": "Marketing/Automation Offerings/Pitch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing/Streamlined MVP/Facebook Images/5.png",
+                "file": "Marketing/Automation Offerings/Pitch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marketing/Streamlined MVP/Facebook Images/5.png"
+                "file": "Marketing/Automation Offerings/Pitch.md"
               }
             }
           }
@@ -146,8 +148,10 @@
   },
   "active": "05943f5155571e29",
   "lastOpenFiles": [
-    "Marketing/Streamlined MVP/Facebook Images/1.png",
+    "Marketing/Automation Offerings/0. Prompt.md",
+    "Marketing/Automation Offerings/Pitch.md",
     "Marketing/Streamlined MVP/Facebook Images/5.png",
+    "Marketing/Streamlined MVP/Facebook Images/1.png",
     "Marketing/Streamlined MVP/Facebook Images/4.png",
     "Marketing/Streamlined MVP/Facebook Images/3.png",
     "Marketing/Streamlined MVP/Facebook Images/2.png",
@@ -179,7 +183,6 @@
     "cs_job_card/1. Intro.md",
     "NDAs and other Agreements/Retainer Agreement/Cyder Solutions Retainer Agreement.md",
     "How to Install Seafile Self-Hosted.md",
-    "NDAs and other Agreements/Retainer Agreement/Prompt.md",
     "NDAs and other Agreements/Retainer Agreement",
     "cs_job_card/Marketing/JC002-list.png",
     "NDAs and other Agreements",
