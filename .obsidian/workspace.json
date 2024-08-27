@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marketing/Automation Offerings/Pitch/ChatGPT.md",
+                "file": "Marketing/Automation Offerings/Pitch/Claude.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing/Automation Offerings/Pitch/ChatGPT.md",
+                "file": "Marketing/Automation Offerings/Pitch/Claude.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing/Automation Offerings/Pitch/ChatGPT.md",
+                "file": "Marketing/Automation Offerings/Pitch/Claude.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marketing/Automation Offerings/Pitch/ChatGPT.md"
+                "file": "Marketing/Automation Offerings/Pitch/Claude.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   "active": "05943f5155571e29",
   "lastOpenFiles": [
     "Marketing/Automation Offerings/Pitch/Pitch Prompt.md",
+    "Marketing/Automation Offerings/Pitch/Claude.md",
     "Marketing/Automation Offerings/Pitch/ChatGPT.md",
     "Marketing/Automation Offerings/Pitch",
     "Marketing/Automation Offerings/0. Prompt.md",
@@ -183,7 +184,6 @@
     "cs_job_card/0. Setup.md",
     "cs_job_card/2. SO Confirmation.md",
     "cs_job_card/1. Intro.md",
-    "NDAs and other Agreements/Retainer Agreement/Cyder Solutions Retainer Agreement.md",
     "NDAs and other Agreements/Retainer Agreement",
     "cs_job_card/Marketing/JC002-list.png",
     "NDAs and other Agreements",
