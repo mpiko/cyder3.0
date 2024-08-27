@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marketing/Automation Offerings/Pitch.md",
+                "file": "Marketing/Automation Offerings/Pitch/ChatGPT.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing/Automation Offerings/Pitch.md",
+                "file": "Marketing/Automation Offerings/Pitch/ChatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing/Automation Offerings/Pitch.md",
+                "file": "Marketing/Automation Offerings/Pitch/ChatGPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marketing/Automation Offerings/Pitch.md"
+                "file": "Marketing/Automation Offerings/Pitch/ChatGPT.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "05943f5155571e29",
   "lastOpenFiles": [
+    "Marketing/Automation Offerings/Pitch/Pitch Prompt.md",
+    "Marketing/Automation Offerings/Pitch/ChatGPT.md",
+    "Marketing/Automation Offerings/Pitch",
     "Marketing/Automation Offerings/0. Prompt.md",
-    "Marketing/Automation Offerings/Pitch.md",
     "Marketing/Streamlined MVP/Facebook Images/5.png",
     "Marketing/Streamlined MVP/Facebook Images/1.png",
     "Marketing/Streamlined MVP/Facebook Images/4.png",
@@ -182,7 +184,6 @@
     "cs_job_card/2. SO Confirmation.md",
     "cs_job_card/1. Intro.md",
     "NDAs and other Agreements/Retainer Agreement/Cyder Solutions Retainer Agreement.md",
-    "How to Install Seafile Self-Hosted.md",
     "NDAs and other Agreements/Retainer Agreement",
     "cs_job_card/Marketing/JC002-list.png",
     "NDAs and other Agreements",
@@ -192,7 +193,6 @@
     "cs_job_card/Marketing/cyder.png",
     "cs_job_card/Marketing/index2.html~",
     "cs_job_card/Marketing/index2.html",
-    "cs_job_card/Marketing/index.html",
-    "cs_job_card/Marketing"
+    "cs_job_card/Marketing/index.html"
   ]
 }
