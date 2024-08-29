@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marketing/Automation Offerings/Pitch/Positioning Statement.md",
+                "file": "6. Marketing Strategy Draft.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing/Automation Offerings/Pitch/Positioning Statement.md",
+                "file": "6. Marketing Strategy Draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing/Automation Offerings/Pitch/Positioning Statement.md",
+                "file": "6. Marketing Strategy Draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marketing/Automation Offerings/Pitch/Positioning Statement.md"
+                "file": "6. Marketing Strategy Draft.md"
               }
             }
           }
@@ -148,14 +148,15 @@
   },
   "active": "05943f5155571e29",
   "lastOpenFiles": [
-    "Marketing/Automation Offerings/Pitch/Final Candidate.md",
+    "6. Marketing Strategy.md",
+    "Marketing/Automation Offerings/Pitch/Pitch Prompt.md",
     "Marketing/Automation Offerings/Pitch/Positioning Statement.md",
+    "Marketing/Automation Offerings/Pitch/Final Candidate.md",
     "Marketing/Automation Offerings/Pitch/Pitch worthy alternatives.md",
     "Marketing/Automation Offerings/Pitch/ChatGPT 3.md",
     "Marketing/Automation Offerings/Pitch/ChatGPT 2.md",
     "Marketing/Automation Offerings/Pitch/ChatGPT.md",
     "Marketing/Automation Offerings/Pitch/Claude.md",
-    "Marketing/Automation Offerings/Pitch/Pitch Prompt.md",
     "Marketing/Automation Offerings/Pitch",
     "Marketing/Automation Offerings/0. Prompt.md",
     "Marketing/Streamlined MVP/Facebook Images/5.png",
@@ -167,7 +168,6 @@
     "Marketing/Streamlined MVP/Facebook Images",
     "Marketing/Streamlined MVP/ChatGPT - Facebook Marketing Campaign Outline.md",
     "Marketing/Streamlined MVP/1. Streamlined - Marketing Strategy.md",
-    "6. Marketing Strategy.md",
     "Marketing/Streamlined MVP",
     "3. Organisational Strategy.md",
     "2. Strategic Objective.md",
