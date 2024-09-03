@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marketing/Automation Offerings/Message to Sam - audience.md",
+                "file": "Marketing/Automation Offerings/0. Prompt.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing/Automation Offerings/Message to Sam - audience.md",
+                "file": "Marketing/Automation Offerings/0. Prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing/Automation Offerings/Message to Sam - audience.md",
+                "file": "Marketing/Automation Offerings/0. Prompt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marketing/Automation Offerings/Message to Sam - audience.md"
+                "file": "Marketing/Automation Offerings/0. Prompt.md"
               }
             }
           }
@@ -148,8 +148,16 @@
   },
   "active": "05943f5155571e29",
   "lastOpenFiles": [
+    "Marketing/Facebook Ads/Audience Interest Targeting.png",
+    "Marketing/Facebook Ads/Cyder Solutions Ad Copy.pdf",
+    "Marketing/Facebook Ads/Cyder Solutions Audience Research.pdf",
+    "Marketing/Facebook Ads/Facebook Ad Guide.png",
+    "Marketing/Facebook Ads/Message to Sam - audience.md",
+    "Marketing/Facebook Ads/Sam's Loom Vid.md",
+    "Marketing/Facebook Ads/Cyder Solutions Audience Research.xlsx",
+    "Marketing/Facebook Ads/Cyder Solutions Ad Copy.docx",
+    "Marketing/Facebook Ads",
     "6. Marketing Strategy Draft.md",
-    "Marketing/Automation Offerings/Message to Sam - audience.md",
     "6. Marketing Strategy.md",
     "Marketing/Automation Offerings/Pitch/Pitch Prompt.md",
     "Marketing/Automation Offerings/Pitch/Positioning Statement.md",
@@ -180,19 +188,10 @@
     "Marketing/AI Prompts/Add paragraph to web page.md",
     "Marketing/AI Prompts/Hubspot Example Prompts/9 ChatGPT Prompts for Analytics.md",
     "5. People Strategy.md",
-    "1. Primary Aim.md",
-    "Marketing/1. Sales-Business Development Manager/From ChatGPT.md",
     "Marketing/1. Sales-Business Development Manager/Cyder 3.0 - Pricing and resourcing.ods",
     "Marketing/1. Sales-Business Development Manager",
-    "NDAs and other Agreements/Retainer Agreement",
     "cs_job_card/Marketing/JC002-list.png",
-    "NDAs and other Agreements",
     "cs_job_card/Marketing/JC002-job_card_small.png",
-    "cs_job_card/Marketing/JC0002_small.png",
-    "cs_job_card/Marketing/JC0002.png",
-    "cs_job_card/Marketing/cyder.png",
-    "cs_job_card/Marketing/index2.html~",
-    "cs_job_card/Marketing/index2.html",
-    "cs_job_card/Marketing/index.html"
+    "cs_job_card/Marketing/JC0002_small.png"
   ]
 }
