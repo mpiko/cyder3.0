@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Marketing/Automation Offerings/0. Prompt.md",
+                "file": "Business Valuation/16 drivers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing/Automation Offerings/0. Prompt.md",
+                "file": "Business Valuation/16 drivers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing/Automation Offerings/0. Prompt.md",
+                "file": "Business Valuation/16 drivers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marketing/Automation Offerings/0. Prompt.md"
+                "file": "Business Valuation/16 drivers.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "05943f5155571e29",
   "lastOpenFiles": [
+    "Marketing/Automation Offerings/0. Prompt.md",
+    "Business Valuation/16 drivers.md",
+    "Business Valuation",
     "Marketing/Facebook Ads/Audience Interest Targeting.png",
     "Marketing/Facebook Ads/Cyder Solutions Ad Copy.pdf",
     "Marketing/Facebook Ads/Cyder Solutions Audience Research.pdf",
@@ -168,7 +171,6 @@
     "Marketing/Automation Offerings/Pitch/ChatGPT.md",
     "Marketing/Automation Offerings/Pitch/Claude.md",
     "Marketing/Automation Offerings/Pitch",
-    "Marketing/Automation Offerings/0. Prompt.md",
     "Marketing/Streamlined MVP/Facebook Images/5.png",
     "Marketing/Streamlined MVP/Facebook Images/1.png",
     "Marketing/Streamlined MVP/Facebook Images/4.png",
@@ -189,7 +191,6 @@
     "Marketing/AI Prompts/Hubspot Example Prompts/9 ChatGPT Prompts for Analytics.md",
     "5. People Strategy.md",
     "Marketing/1. Sales-Business Development Manager/Cyder 3.0 - Pricing and resourcing.ods",
-    "Marketing/1. Sales-Business Development Manager",
     "cs_job_card/Marketing/JC002-list.png",
     "cs_job_card/Marketing/JC002-job_card_small.png",
     "cs_job_card/Marketing/JC0002_small.png"
