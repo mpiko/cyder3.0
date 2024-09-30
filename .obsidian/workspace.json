@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "762f5fe41cd45108",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NDAs and other Agreements/NON-DISCLOSURE AGREEMENT (NDA).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NDAs and other Agreements/NON-DISCLOSURE AGREEMENT (NDA).md",
+                "file": "EOS/Types of processes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NDAs and other Agreements/NON-DISCLOSURE AGREEMENT (NDA).md",
+                "file": "EOS/Types of processes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NDAs and other Agreements/NON-DISCLOSURE AGREEMENT (NDA).md"
+                "file": "EOS/Types of processes.md"
               }
             }
           }
@@ -159,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "762f5fe41cd45108",
+  "active": "01df7151db7a7df9",
   "lastOpenFiles": [
+    "EOS/Book - Process!.pdf",
+    "NDAs and other Agreements/NON-DISCLOSURE AGREEMENT (NDA).md",
     "Buy then Build - Walker Deibel.md",
     "EOS/Types of processes.md",
-    "EOS/Book - Process!.pdf",
     "Business Valuation/Meta and SEO.md",
     "Business Valuation/How to Value Your Business and Build a Profitable, Scalable, Self-Sustaining Enterprise.md",
     "Business Valuation/How to Set 5-Year Targets and Break Them Down into Monthly Activities for Maximum Impact.md",
@@ -202,8 +190,6 @@
     "Marketing/Streamlined MVP/1. Streamlined - Marketing Strategy.md",
     "3. Organisational Strategy.md",
     "2. Strategic Objective.md",
-    "Marketing/AI Prompts/Incorporating roles.md",
-    "Marketing/AI Prompts/Developing Prompts.md",
     "cs_job_card/Marketing/JC002-list.png",
     "cs_job_card/Marketing/JC002-job_card_small.png",
     "cs_job_card/Marketing/JC0002_small.png"
