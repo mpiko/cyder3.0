@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EOS/Types of processes.md",
+                "file": "NDAs and other Agreements/NON-DISCLOSURE AGREEMENT (NDA).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EOS/Types of processes.md",
+                "file": "NDAs and other Agreements/NON-DISCLOSURE AGREEMENT (NDA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EOS/Types of processes.md",
+                "file": "NDAs and other Agreements/NON-DISCLOSURE AGREEMENT (NDA).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EOS/Types of processes.md"
+                "file": "NDAs and other Agreements/NON-DISCLOSURE AGREEMENT (NDA).md"
               }
             }
           }
@@ -146,12 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01df7151db7a7df9",
+  "active": "05943f5155571e29",
   "lastOpenFiles": [
+    "EOS/Types of processes.md",
     "EOS/Book - Process!.pdf",
     "NDAs and other Agreements/NON-DISCLOSURE AGREEMENT (NDA).md",
     "Buy then Build - Walker Deibel.md",
-    "EOS/Types of processes.md",
     "Business Valuation/Meta and SEO.md",
     "Business Valuation/How to Value Your Business and Build a Profitable, Scalable, Self-Sustaining Enterprise.md",
     "Business Valuation/How to Set 5-Year Targets and Break Them Down into Monthly Activities for Maximum Impact.md",
