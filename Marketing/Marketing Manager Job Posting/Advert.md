@@ -23,7 +23,7 @@ Cyder Solutions is seeking an experienced and dedicated Marketing Manager to pri
 - Ability to provide actionable insights and recommendations for website and marketing improvements.
 - Experience in creating engaging social media content and lead magnets.
 - Must be a solo freelancer - no agencies.
-- Candidates must be based in Australia/New Zealand.
+- Candidates must be based in Australia/New Ze20% commission on the first $50,000aland.
 - Must have good references and a track record of successful campaigns.
 
 **Why Join Cyder Solutions?**
