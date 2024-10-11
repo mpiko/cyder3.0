@@ -76,5 +76,5 @@
 	- Managing recurring services, service contracts, and preventive maintenance schedules manually can lead to missed tasks and inefficiencies.
 
 ### Our offering
-- A 
+A platform consisting of a number of products which will replace some inadequate systems you are currently using, leverage, integrate, and automate with other system which are satisfied with, and deliver your business with a comprehensive platform. 
 
