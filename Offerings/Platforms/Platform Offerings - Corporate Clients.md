@@ -1,4 +1,4 @@
-## Corporate Businesses
+## About the Corporate Businesses
 **Size:** > 10 Staff
 **Product and Service Offerings by these clients**
 	- Sell equipment
@@ -74,8 +74,6 @@
 	- As businesses grow, managing increased operations without proper tools can result in inefficiencies and reduced service quality.
 - **Handling Recurring Services and Contracts**
 	- Managing recurring services, service contracts, and preventive maintenance schedules manually can lead to missed tasks and inefficiencies.
-
-
 
 ### Our offering
 - A 
