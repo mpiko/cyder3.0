@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Offerings/Platforms/Platform Offerings - Corporate Clients.md",
+                "file": "Offerings/Platform Offering/Platform Offerings - Corporate Clients.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Offerings/Platforms/Platform Offerings - Corporate Clients.md",
+                "file": "Offerings/Platform Offering/Platform Offerings - Corporate Clients.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Offerings/Platforms/Platform Offerings - Corporate Clients.md",
+                "file": "Offerings/Platform Offering/Platform Offerings - Corporate Clients.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Offerings/Platforms/Platform Offerings - Corporate Clients.md"
+                "file": "Offerings/Platform Offering/Platform Offerings - Corporate Clients.md"
               }
             }
           }
@@ -148,12 +148,12 @@
   },
   "active": "05943f5155571e29",
   "lastOpenFiles": [
-    "Offerings/Platforms/Pitch.md",
-    "Offerings/Platforms/Platform Offerings - Corporate Clients.md",
+    "Offerings/Platform Offering/ChatGPT Challenges conversation.md",
+    "Offerings/Platform Offering/Pitch.md",
+    "Offerings/Platform Offering/Platform Offerings - Corporate Clients.md",
     "Offerings/Platforms/Platform Offering - Small Clients.md",
     "Offerings/Platforms/Platform Offerings - Corporate Clients.docx",
-    "Offerings/Platforms/ChatGPT converstation.md",
-    "Offerings/Platforms",
+    "Offerings/Platform Offering",
     "Offerings/Service - Automation Assessment.md",
     "Offerings/Blog - Automation.md",
     "Offerings/Email - Automation Assessment.md",

@@ -9,11 +9,11 @@
 
 ---
 ### Our Offering 
-We provide a fully integrated platform that replaces outdated, disconnected systems, streamlining your operations by centralising equipment management, field services, repairs, and calibration services into a unified solution. Our platform seamlessly integrates with your existing systems, enhances workflows through automation, and reduces overall operational costs by migrating you from multiple systems to a single, cohesive platform. This results in increased operational efficiency, better resource allocation, and improved service delivery while ensuring compliance with industry standards. With our solution, you'll reduce subscription and maintenance costs and gain full visibility across your organisation, empowering you to focus on growth and performance.
+We provide a flexible, integrated platform that reduces the number of software systems you rely on, streamlining your operations while allowing you to retain the tools that work best for your business. By consolidating where it makes sense—such as in equipment management, field services, repairs, and maintenance—our solution enhances workflows through automation and integrates seamlessly with your existing tools. This best-of-breed approach ensures you gain operational efficiency, reduce subscription and maintenance costs, and improve service delivery, all without sacrificing the flexibility to use your favourite software. Our focus is on delivering a unified, efficient system that adapts to your business needs.
 
 ---
 ### Positioning Statement
-Our platform is designed for businesses with over 10 staff, managing complex field services, equipment, and repairs. We offer a comprehensive solution that not only automates and integrates your workflows but also reduces costs by migrating you from other platforms. This enables you to improve efficiency, reduce subscription and maintenance expenses, and focus on scaling confidently. With full visibility and actionable insights, our solution empowers businesses to optimise operations and enhance service delivery.
+Our platform is designed for businesses with over 10 staff, managing complex field services, equipment, and repairs. We offer a flexible solution that consolidates and automates key workflows while allowing clients to keep your preferred toolsets. By integrating with your current systems, we reduce operational complexity, cut subscription and maintenance costs, and improve efficiency. This best-of-breed approach ensures you can scale confidently while optimising operations and enhancing service delivery, all tailored to your business's unique needs.
 
 ---
 ![[Pitch]]
