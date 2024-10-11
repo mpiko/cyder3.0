@@ -6,6 +6,8 @@
 	- Equipment management and servicing for other businesses
 	- Repairs
 	- Calibration Services
+
+---
 ### Challenges faced by these clients
 - **Marketing and CRM**
 	- Customer Relationship Management
@@ -75,6 +77,10 @@
 - **Handling Recurring Services and Contracts**
 	- Managing recurring services, service contracts, and preventive maintenance schedules manually can lead to missed tasks and inefficiencies.
 
-### Our offering
-A platform consisting of a number of products which will replace some inadequate systems you are currently using, leverage, integrate, and automate with other system which are satisfied with, and deliver your business with a comprehensive platform. 
+---
+### Our Offering (Unification offering??)
+We provide an integrated platform that replaces outdated, disconnected systems, streamlining your operations by centralising equipment management, field services, repairs, and calibration services into a unified solution. Our platform seamlessly integrates with the systems you already rely on and enhances your workflow through automation. This results in increased operational efficiency, better resource allocation, and improved service delivery, all while maintaining compliance with industry standards. By consolidating key business processes, we enable you to gain full visibility, reduce manual tasks, and drive better performance across your organisation.
 
+---
+### Positioning Statement
+Our platform is designed for businesses with over 10 staff, managing complex field services, equipment, and repairs. We offer a comprehensive solution that automates and integrates your workflows, enhancing efficiency, ensuring compliance, and delivering actionable insights. With a focus on improving equipment tracking, maintenance, and customer engagement, we enable businesses to scale confidently and manage operations seamlessly.

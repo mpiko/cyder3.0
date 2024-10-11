@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Offerings/Platforms/Platform Offerings - Corporate Clients.md",
+                "file": "Offerings/Platforms/Pitch.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Offerings/Platforms/Platform Offerings - Corporate Clients.md",
+                "file": "Offerings/Platforms/Pitch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Offerings/Platforms/Platform Offerings - Corporate Clients.md",
+                "file": "Offerings/Platforms/Pitch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Offerings/Platforms/Platform Offerings - Corporate Clients.md"
+                "file": "Offerings/Platforms/Pitch.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "05943f5155571e29",
   "lastOpenFiles": [
+    "Offerings/Platforms/Platform Offerings - Corporate Clients.md",
+    "Offerings/Platforms/Pitch.md",
     "Offerings/Platforms/Platform Offerings - Corporate Clients.docx",
     "Offerings/Platforms/Platform Offering - Small Clients.md",
-    "Offerings/Platforms/Platform Offerings - Corporate Clients.md",
     "Offerings/Platforms/ChatGPT converstation.md",
     "Offerings/Platforms",
     "Offerings/Service - Automation Assessment.md",
@@ -185,7 +186,6 @@
     "Marketing/Facebook Ads/Cyder Solutions Ad Copy.pdf",
     "Marketing/Facebook Ads/Cyder Solutions Audience Research.pdf",
     "Marketing/Facebook Ads/Facebook Ad Guide.png",
-    "Marketing/Facebook Ads/Cyder Solutions Audience Research.xlsx",
     "Marketing/Streamlined MVP/Facebook Images/5.png",
     "Marketing/Streamlined MVP/Facebook Images/1.png",
     "Marketing/Streamlined MVP/Facebook Images/4.png",
