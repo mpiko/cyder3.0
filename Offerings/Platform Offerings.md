@@ -43,10 +43,23 @@
 	    - Technicians and managers often lack real-time visibility into the status of equipment, maintenance tasks, and repair activities. This makes it hard to plan effectively, allocate resources, or respond quickly to emergencies.
 	    - Delays in accessing accurate data can lead to inefficient use of manpower and equipment.
 - **Inventory and Spare Parts Management**
-	- Keeping track of spare parts inventory, equipment components, and repair supplies
-
----
-- **Inefficient Job Scheduling and Resource Allocation:** 
+	- Businesses that manage equipment for other companies or handle repairs and calibration services face significant complexity in tracking and maintaining equipment throughout its lifecycle. These challenges often include:
+	- Tracking Equipment Usage and Location
+	    - Companies often need to track equipment deployed across multiple locations or customer sites. Manually tracking where equipment is located, its usage history, and service logs can be inefficient and error-prone.
+	    - For companies managing fleets of equipment, they must also monitor which equipment is currently in use, under maintenance, or idle, adding to the complexity.
+	- Monitoring Maintenance Schedules:
+	    - Equipment requires regular preventive maintenance to avoid breakdowns and ensure smooth operation. Missing scheduled maintenance can lead to unplanned downtime, costly repairs, or even equipment failure.
+	    - If the business handles multiple clients and various equipment types, manually keeping track of maintenance intervals for each piece of equipment becomes overwhelming and prone to errors.
+	- Handling Calibration Requirements
+	    - For businesses that offer calibration services, ensuring that equipment is calibrated on time and according to industry standards is critical. Manually tracking calibration schedules can result in missed deadlines, non-compliance with regulations, and a drop in service quality.
+	    - Keeping up-to-date calibration records for audits or certifications can be challenging if not properly organised.
+	- Tracking Repair History and Costs:
+	    - Monitoring the complete history of repairs for each piece of equipment is necessary to identify recurring issues, calculate repair costs, and decide whether to repair or replace equipment.
+	    - Without proper tracking, it's difficult to analyse patterns in equipment failure or estimate the total cost of ownership.
+	- Lack of Visibility and Real-Time Data
+	    - Technicians and managers often lack real-time visibility into the status of equipment, maintenance tasks, and repair activities. This makes it hard to plan effectively, allocate resources, or respond quickly to emergencies.
+	    - Delays in accessing accurate data can lead to inefficient use of manpower and equipment.
+- **Inefficient Job Scheduling and Resource Allocation** 
 	- Managing a high volume of service requests, coordinating field technicians, and efficiently scheduling jobs.
 - **Lack of Integration Across Departments**
 	- Siloed information across teams, leading to inefficient communication and slower decision-making.
@@ -58,7 +71,6 @@
 	- Managing industry-specific compliance regulations, certifications, and calibrations for equipment, especially in industries with strict standards.
 - **Scaling Operations**
 	- As businesses grow, managing increased operations without proper tools can result in inefficiencies and reduced service quality.
-
 - **Handling Recurring Services and Contracts**
 	- Managing recurring services, service contracts, and preventive maintenance schedules manually can lead to missed tasks and inefficiencies.
 
