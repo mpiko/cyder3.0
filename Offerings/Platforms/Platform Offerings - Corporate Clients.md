@@ -32,7 +32,7 @@
 	- Businesses that manage equipment for other companies or handle repairs and calibration services face significant complexity in tracking and maintaining equipment throughout its lifecycle. These challenges often include
 	- Tracking Equipment Usage and Location
 		- Companies often need to track equipment deployed across multiple locations or customer sites. Manually tracking where equipment is located, its usage history, and service logs can be inefficient and error-prone.
-	    - For companies managing fleets of equipment, they must also monitor which equipment is currently in use, under maintenance, or idle, adding to the complexity.
+		- For companies managing fleets of equipment, they must also monitor which equipment is currently in use, under maintenance, or idle, adding to the complexity.
 	- Monitoring Maintenance Schedules
 	    - Equipment requires regular preventive maintenance to avoid breakdowns and ensure smooth operation. Missing scheduled maintenance can lead to unplanned downtime, costly repairs, or even equipment failure.
 	    - If the business handles multiple clients and various equipment types, manually keeping track of maintenance intervals for each piece of equipment becomes overwhelming and prone to errors.
@@ -78,9 +78,13 @@
 	- Managing recurring services, service contracts, and preventive maintenance schedules manually can lead to missed tasks and inefficiencies.
 
 ---
-### Our Offering (Unification offering??)
+### Our Offering 
+*NTS: (Unification offering??)*
 We provide an integrated platform that replaces outdated, disconnected systems, streamlining your operations by centralising equipment management, field services, repairs, and calibration services into a unified solution. Our platform seamlessly integrates with the systems you already rely on and enhances your workflow through automation. This results in increased operational efficiency, better resource allocation, and improved service delivery, all while maintaining compliance with industry standards. By consolidating key business processes, we enable you to gain full visibility, reduce manual tasks, and drive better performance across your organisation.
 
 ---
 ### Positioning Statement
 Our platform is designed for businesses with over 10 staff, managing complex field services, equipment, and repairs. We offer a comprehensive solution that automates and integrates your workflows, enhancing efficiency, ensuring compliance, and delivering actionable insights. With a focus on improving equipment tracking, maintenance, and customer engagement, we enable businesses to scale confidently and manage operations seamlessly.
+
+---
+![[Pitch]]
