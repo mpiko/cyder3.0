@@ -6,7 +6,7 @@
 	- Repairs
 	- Calibration Services
 **Challenges faced by these clients**
-
+- **Inefficient Job Scheduling and Resource Allocation**
 	- 
 Our offering
 - A 
