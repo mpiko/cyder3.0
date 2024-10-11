@@ -5,7 +5,7 @@
 	- Equipment Management for other businesses
 	- Repairs
 	- Calibration Services
-**Challenges faced by these clients**
+### Challenges faced by these clients
 - **Marketing and CRM**
 	- Customer Relationship Management
 		- Managing customer interactions, follow-ups, and service requests can be challenging without a unified CRM system.
@@ -76,14 +76,6 @@
 
 
 
-Our offering
+### Our offering
 - A 
 
-## Small Field Service companies
-- < 10 staff
-- Offers field services
-### Platform
-- FSM: ServiceM8, Fergus
-- Marketing: Odoo, facebook
-- Other???
-- 

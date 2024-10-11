@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Offerings/Platform Offerings.md",
+                "file": "Offerings/Platforms/Platform Offerings - Corporate Clients.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Offerings/Platform Offerings.md",
+                "file": "Offerings/Platforms/Platform Offerings - Corporate Clients.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Offerings/Platform Offerings.md",
+                "file": "Offerings/Platforms/Platform Offerings - Corporate Clients.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Offerings/Platform Offerings.md"
+                "file": "Offerings/Platforms/Platform Offerings - Corporate Clients.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "05943f5155571e29",
   "lastOpenFiles": [
+    "Offerings/Platforms/Platform Offering - Small Clients.md",
+    "Offerings/Platforms/Platform Offerings - Corporate Clients.md",
+    "Offerings/Platforms/ChatGPT converstation.md",
+    "Offerings/Platforms",
     "Offerings/Service - Automation Assessment.md",
-    "Offerings/Platform Offerings.md",
     "Offerings/Blog - Automation.md",
     "Offerings/Email - Automation Assessment.md",
     "Offerings/Sample Engineering Solutions - Sample Assessment Report.pdf",
@@ -177,15 +180,12 @@
     "Business Valuation/How to Set 5-Year Targets and Break Them Down into Monthly Activities for Maximum Impact.md",
     "Business Valuation/Transcript - How to build a valuable sellable business.txt",
     "Business Valuation/Transcript ",
-    "Business Valuation/16 Drivers.md",
     "Business Valuation",
     "Marketing/Facebook Ads/Audience Interest Targeting.png",
     "Marketing/Facebook Ads/Cyder Solutions Ad Copy.pdf",
     "Marketing/Facebook Ads/Cyder Solutions Audience Research.pdf",
     "Marketing/Facebook Ads/Facebook Ad Guide.png",
-    "Marketing/Facebook Ads/Message to Sam - audience.md",
     "Marketing/Facebook Ads/Cyder Solutions Audience Research.xlsx",
-    "Marketing/Facebook Ads/Cyder Solutions Ad Copy.docx",
     "Marketing/Streamlined MVP/Facebook Images/5.png",
     "Marketing/Streamlined MVP/Facebook Images/1.png",
     "Marketing/Streamlined MVP/Facebook Images/4.png",
