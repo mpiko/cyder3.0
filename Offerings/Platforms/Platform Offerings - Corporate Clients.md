@@ -1,6 +1,7 @@
 ## Corporate Businesses
 **Size:** > 10 Staff
 **Product and Service Offerings by these clients**
+	- Sell and Manage equipment including machinery servicing
 	- Field services
 	- Equipment Management for other businesses
 	- Repairs
