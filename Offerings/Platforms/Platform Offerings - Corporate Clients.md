@@ -1,4 +1,4 @@
-## About the Corporate Businesses
+### About the Client
 **Size:** > 10 Staff
 **Product and Service Offerings by these clients**
 	- Sell equipment
@@ -6,6 +6,17 @@
 	- Equipment management and servicing for other businesses
 	- Repairs
 	- Calibration Services
+
+---
+### Our Offering 
+We provide a fully integrated platform that replaces outdated, disconnected systems, streamlining your operations by centralising equipment management, field services, repairs, and calibration services into a unified solution. Our platform seamlessly integrates with your existing systems, enhances workflows through automation, and reduces overall operational costs by migrating you from multiple systems to a single, cohesive platform. This results in increased operational efficiency, better resource allocation, and improved service delivery while ensuring compliance with industry standards. With our solution, you'll reduce subscription and maintenance costs and gain full visibility across your organisation, empowering you to focus on growth and performance.
+
+---
+### Positioning Statement
+Our platform is designed for businesses with over 10 staff, managing complex field services, equipment, and repairs. We offer a comprehensive solution that not only automates and integrates your workflows but also reduces costs by migrating you from other platforms. This enables you to improve efficiency, reduce subscription and maintenance expenses, and focus on scaling confidently. With full visibility and actionable insights, our solution empowers businesses to optimise operations and enhance service delivery.
+
+---
+![[Pitch]]
 
 ---
 ### Challenges faced by these clients
@@ -78,13 +89,3 @@
 	- Managing recurring services, service contracts, and preventive maintenance schedules manually can lead to missed tasks and inefficiencies.
 
 ---
-### Our Offering 
-*NTS: (Unification offering??)*
-We provide an integrated platform that replaces outdated, disconnected systems, streamlining your operations by centralising equipment management, field services, repairs, and calibration services into a unified solution. Our platform seamlessly integrates with the systems you already rely on and enhances your workflow through automation. This results in increased operational efficiency, better resource allocation, and improved service delivery, all while maintaining compliance with industry standards. By consolidating key business processes, we enable you to gain full visibility, reduce manual tasks, and drive better performance across your organisation.
-
----
-### Positioning Statement
-Our platform is designed for businesses with over 10 staff, managing complex field services, equipment, and repairs. We offer a comprehensive solution that automates and integrates your workflows, enhancing efficiency, ensuring compliance, and delivering actionable insights. With a focus on improving equipment tracking, maintenance, and customer engagement, we enable businesses to scale confidently and manage operations seamlessly.
-
----
-![[Pitch]]
