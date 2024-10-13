@@ -113,7 +113,10 @@ Saved Audience Details
     
 - People who match:
     
-    Interests: Landscaping or Home construction, Field of study: Electrician, Employers: Electrician, Plumber, Landscape or Carpenter/Labor, Job title: Electrician, Plumber, Construction foreman, Carpenter/Labor or Landscape Gardener
+    Interests: Landscaping or Home construction, 
+    Field of study: Electrician, 
+    Employers: Electrician, Plumber, Landscape or Carpenter/Labor, 
+    Job title: , Plumber, Construction foreman, Carpenter/Labor or Landscape Gardener
     
 - And must also match:
     
