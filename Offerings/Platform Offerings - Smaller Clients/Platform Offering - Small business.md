@@ -70,3 +70,9 @@ This version keeps the **focus on solving business problems**, with the technolo
 
 
 ---
+## Images
+1. **Portrait 1**: A male tradesman, standing confidently in front of a van with a tablet in hand.
+2. **Portrait 2**: A female field service manager in her 30s, standing confidently in front of a small office with a smartphone in hand. She is dressed professionally with a business-casual outfit, smiling, and looks focused. In the background, there’s subtle branding related to service operations.
+3. **Portrait 3**: A team member working on-site, wearing high-visibility clothing, engaged with tools but glancing towards the camera with a friendly expression. This represents the hands-on nature of field service work while maintaining professionalism.
+3. **Portrait 4**: An office-based coordinator or dispatcher seated at a desk with a desktop computer showing a scheduling interface. They are smiling, conveying efficiency and organization in managing daily operations.
+4. **Portrait 5**: A small group of service professionals meeting outdoors near their work vehicles, reviewing a task list on a tablet. The scene represents teamwork and coordination, with all members engaged and ready for the day’s work.
