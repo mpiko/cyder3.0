@@ -67,3 +67,6 @@ Thank you! 🎉 We’ll be in touch shortly to show how you can simplify your op
 ---
 
 This version keeps the **focus on solving business problems**, with the technology positioned as a facilitator. The ad and pitch both emphasise freeing up time and improving efficiency, which resonates more with small business owners without overwhelming them with the technical details.
+
+
+---
