@@ -76,3 +76,51 @@ This version keeps the **focus on solving business problems**, with the technolo
 3. **Portrait 3**: A team member working on-site, wearing high-visibility clothing, engaged with tools but glancing towards the camera with a friendly expression. This represents the hands-on nature of field service work while maintaining professionalism.
 3. **Portrait 4**: An office-based coordinator or dispatcher seated at a desk with a desktop computer showing a scheduling interface. They are smiling, conveying efficiency and organization in managing daily operations.
 4. **Portrait 5**: A small group of service professionals meeting outdoors near their work vehicles, reviewing a task list on a tablet. The scene represents teamwork and coordination, with all members engaged and ready for the day’s work.
+
+
+---
+
+
+Audience Name
+
+Tradies in Australia
+
+Estimated audience size
+
+2,300,000 - 2,600,000
+
+Type
+
+Saved audience
+
+Created
+
+10/14/24, 8:13 AM
+
+Last Updated
+
+10/14/24, 8:13 AM
+
+Saved Audience Details
+
+- Location:
+    
+    Australia
+    
+- Age:
+    
+    22 - 50
+    
+- People who match:
+    
+    Interests: Landscaping or Home construction, Field of study: Electrician, Employers: Electrician, Plumber, Landscape or Carpenter/Labor, Job title: Electrician, Plumber, Construction foreman, Carpenter/Labor or Landscape Gardener
+    
+- And must also match:
+    
+    Interests: Small business
+    
+- Advantage detailed targeting:
+    
+    Off
+    
+- Advantage+ audience:
