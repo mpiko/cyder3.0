@@ -1,10 +1,26 @@
 ## Value Proposition:
-Cyder Solutions streamlines equipment and machinery-focused businesses through integrated and consolidated digital systems that connect your sales, rentals, maintenance, and field operations into one seamless workflow. We eliminate double data entry, reduce administrative overhead, and give you real-time visibility across your entire operation.
+Cyder Solutions streamlines equipment and machinery-focused businesses through integrated and consolidated digital systems that connect your sales, rentals, maintenance, calibration, and field operations into one seamless workflow. We eliminate double data entry, reduce administrative overhead, and give you real-time visibility across your entire operation.
 
 #### Benefits:
 80% elimination of human errors due to reduced data entry
 20% reduction in labour costs
 Enable fully integrated ominchannel marketing automation capabilities
+
+---
+## Topics
+- Construction Equipment
+- Industrial Equipment
+- Medical Equipment
+- Agricultural Equipment
+- Health Care Equipment
+- Machinery Rentals
+- Machinery Sales
+- Calibration
+- Field Ops
+- Field Operations
+- Field Services
+- Equipment and Machinery
+
 
 ---
 ## Target Business Profile:
