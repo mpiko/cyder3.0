@@ -61,7 +61,7 @@ Direct Outreach:
 - Run Q&A sessions about digital transformation
 - Showcase client success stories
 
-### 6. Message Sequence:
+6. Message Sequence:
 
 Week 1: Connection Request
 ```
@@ -83,7 +83,7 @@ Week 4: Meeting Request
 "Would you be open to a 15-minute chat about how other equipment service businesses are automating their operations? I'd be happy to share some specific examples relevant to [Company]."
 ```
 
-### 7. Automated Lead Generation Process:
+7. Automated Lead Generation Process:
 A. Initial Setup:
 1. Create target account list
 2. Set up Sales Navigator alerts
