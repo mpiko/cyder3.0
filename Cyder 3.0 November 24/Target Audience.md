@@ -7,7 +7,7 @@ Cyder Solutions streamlines equipment and machinery-focused businesses through i
 Enable fully integrated ominchannel marketing automation capabilities
 
 ---
-## Topics
+## Target Industries
 - Construction Equipment
 - Industrial Equipment
 - Medical Equipment
