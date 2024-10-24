@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyder 3.0 November 24/Awareness Campaign/content-calendar.md",
+                "file": "Cyder 3.0 November 24/Awareness Campaign/1. mission-post-revised.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "content-calendar"
+              "title": "1. mission-post-revised"
             }
           }
         ]
@@ -164,10 +164,12 @@
   },
   "active": "05943f5155571e29",
   "lastOpenFiles": [
+    "Cyder 3.0 November 24/Awareness Campaign/clean-circular-integration.svg",
     "Cyder 3.0 November 24/Awareness Campaign/interconnected-integration-diagram.svg",
+    "Cyder 3.0 November 24/Awareness Campaign/circular-integration-diagram.svg",
+    "Cyder 3.0 November 24/Awareness Campaign/content-calendar.md",
     "Cyder 3.0 November 24/Awareness Campaign/1. mission-post-revised.md",
     "Cyder 3.0 November 24/Target Audience.md",
-    "Cyder 3.0 November 24/Awareness Campaign/content-calendar.md",
     "Cyder 3.0 November 24/Awareness Campaign/Engagement Poll Questions.md",
     "Cyder 3.0 November 24/Awareness Campaign/Social Media Posts Templates.md",
     "Cyder 3.0 November 24/Awareness Campaign/Equipment Management Checklist.md",
@@ -207,8 +209,6 @@
     "Marketing/Streamlined MVP/Facebook Images/5.png",
     "Marketing/Streamlined MVP/Facebook Images/1.png",
     "Marketing/Streamlined MVP/Facebook Images/4.png",
-    "Marketing/Streamlined MVP/Facebook Images/3.png",
-    "Marketing/Streamlined MVP/Facebook Images/2.png",
-    "cs_job_card/Marketing/JC002-list.png"
+    "Marketing/Streamlined MVP/Facebook Images/3.png"
   ]
 }

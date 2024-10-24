@@ -1,0 +1,79 @@
+<svg viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect width="800" height="800" fill="#ffffff"/>
+    
+    <!-- Connection Lines -->
+    <g id="connections">
+        <!-- Draw lines from each system to center -->
+        <path d="M400 400 L400 180" stroke="#1976d2" stroke-width="1.5" opacity="0.5"/>
+        <path d="M400 400 L620 250" stroke="#2e7d32" stroke-width="1.5" opacity="0.5"/>
+        <path d="M400 400 L650 400" stroke="#f57c00" stroke-width="1.5" opacity="0.5"/>
+        <path d="M400 400 L620 550" stroke="#7b1fa2" stroke-width="1.5" opacity="0.5"/>
+        <path d="M400 400 L400 620" stroke="#c2185b" stroke-width="1.5" opacity="0.5"/>
+        <path d="M400 400 L180 550" stroke="#3f51b5" stroke-width="1.5" opacity="0.5"/>
+        <path d="M400 400 L150 400" stroke="#00796b" stroke-width="1.5" opacity="0.5"/>
+        <path d="M400 400 L180 250" stroke="#616161" stroke-width="1.5" opacity="0.5"/>
+    </g>
+
+    <!-- Central Integration Hub -->
+    <circle cx="400" cy="400" r="50" fill="#f5f5f5" stroke="#333333" stroke-width="2"/>
+    <text x="400" y="390" text-anchor="middle" font-family="Arial" font-size="16" fill="#333333" font-weight="bold">Cyder</text>
+    <text x="400" y="410" text-anchor="middle" font-family="Arial" font-size="16" fill="#333333" font-weight="bold">Integration</text>
+
+    <!-- Systems arranged in a circle -->
+    <!-- Sales/CRM -->
+    <g transform="translate(330,130)">
+        <rect x="0" y="0" width="140" height="70" rx="10" fill="#e3f2fd" stroke="#1976d2" stroke-width="2"/>
+        <text x="70" y="30" text-anchor="middle" font-family="Arial" font-size="14" fill="#1976d2" font-weight="bold">Sales/CRM</text>
+        <text x="70" y="50" text-anchor="middle" font-family="Arial" font-size="12" fill="#1976d2">(Salesforce, etc.)</text>
+    </g>
+
+    <!-- Rental -->
+    <g transform="translate(550,200)">
+        <rect x="0" y="0" width="140" height="70" rx="10" fill="#e8f5e9" stroke="#2e7d32" stroke-width="2"/>
+        <text x="70" y="30" text-anchor="middle" font-family="Arial" font-size="14" fill="#2e7d32" font-weight="bold">Rental System</text>
+        <text x="70" y="50" text-anchor="middle" font-family="Arial" font-size="12" fill="#2e7d32">(ERP)</text>
+    </g>
+
+    <!-- Maintenance -->
+    <g transform="translate(580,365)">
+        <rect x="0" y="0" width="140" height="70" rx="10" fill="#fff3e0" stroke="#f57c00" stroke-width="2"/>
+        <text x="70" y="30" text-anchor="middle" font-family="Arial" font-size="14" fill="#f57c00" font-weight="bold">Maintenance</text>
+        <text x="70" y="50" text-anchor="middle" font-family="Arial" font-size="12" fill="#f57c00">(CMMS)</text>
+    </g>
+
+    <!-- Marketing -->
+    <g transform="translate(550,530)">
+        <rect x="0" y="0" width="140" height="70" rx="10" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2"/>
+        <text x="70" y="30" text-anchor="middle" font-family="Arial" font-size="14" fill="#7b1fa2" font-weight="bold">Marketing</text>
+        <text x="70" y="50" text-anchor="middle" font-family="Arial" font-size="12" fill="#7b1fa2">(Automation)</text>
+    </g>
+
+    <!-- Repair/Service -->
+    <g transform="translate(330,600)">
+        <rect x="0" y="0" width="140" height="70" rx="10" fill="#fce4ec" stroke="#c2185b" stroke-width="2"/>
+        <text x="70" y="30" text-anchor="middle" font-family="Arial" font-size="14" fill="#c2185b" font-weight="bold">Repair/Service</text>
+        <text x="70" y="50" text-anchor="middle" font-family="Arial" font-size="12" fill="#c2185b">(Field Service)</text>
+    </g>
+
+    <!-- Accounting -->
+    <g transform="translate(110,530)">
+        <rect x="0" y="0" width="140" height="70" rx="10" fill="#e8eaf6" stroke="#3f51b5" stroke-width="2"/>
+        <text x="70" y="30" text-anchor="middle" font-family="Arial" font-size="14" fill="#3f51b5" font-weight="bold">Accounting</text>
+        <text x="70" y="50" text-anchor="middle" font-family="Arial" font-size="12" fill="#3f51b5">(QuickBooks, etc.)</text>
+    </g>
+
+    <!-- Inventory -->
+    <g transform="translate(80,365)">
+        <rect x="0" y="0" width="140" height="70" rx="10" fill="#e0f2f1" stroke="#00796b" stroke-width="2"/>
+        <text x="70" y="30" text-anchor="middle" font-family="Arial" font-size="14" fill="#00796b" font-weight="bold">Inventory</text>
+        <text x="70" y="50" text-anchor="middle" font-family="Arial" font-size="12" fill="#00796b">(WMS)</text>
+    </g>
+
+    <!-- Other Systems -->
+    <g transform="translate(110,200)">
+        <rect x="0" y="0" width="140" height="70" rx="10" fill="#f5f5f5" stroke="#616161" stroke-width="2"/>
+        <text x="70" y="30" text-anchor="middle" font-family="Arial" font-size="14" fill="#616161" font-weight="bold">Other Systems</text>
+        <text x="70" y="50" text-anchor="middle" font-family="Arial" font-size="12" fill="#616161">(Custom Tools)</text>
+    </g>
+</svg>
