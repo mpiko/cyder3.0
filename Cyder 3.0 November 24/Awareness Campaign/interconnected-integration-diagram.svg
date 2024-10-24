@@ -1,0 +1,100 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect width="800" height="600" fill="#ffffff"/>
+    
+    <!-- Connection Lines (Drawing these FIRST so they appear behind boxes) -->
+    <g id="connections">
+        <!-- Sales/CRM connections -->
+        <path d="M120 90 L390 250" stroke="#1976d2" stroke-width="1.5" opacity="0.5"/>
+        
+        <!-- Rental System connections -->
+        <path d="M300 90 L390 250" stroke="#2e7d32" stroke-width="1.5" opacity="0.5"/>
+        
+        <!-- Maintenance connections -->
+        <path d="M480 90 L390 250" stroke="#f57c00" stroke-width="1.5" opacity="0.5"/>
+        
+        <!-- Marketing connections -->
+        <path d="M660 90 L390 250" stroke="#7b1fa2" stroke-width="1.5" opacity="0.5"/>
+        
+        <!-- Repair/Service connections -->
+        <path d="M120 200 L390 250" stroke="#c2185b" stroke-width="1.5" opacity="0.5"/>
+        
+        <!-- Accounting connections -->
+        <path d="M300 200 L390 250" stroke="#3f51b5" stroke-width="1.5" opacity="0.5"/>
+        
+        <!-- Inventory connections -->
+        <path d="M480 200 L390 250" stroke="#00796b" stroke-width="1.5" opacity="0.5"/>
+        
+        <!-- Other Systems connections -->
+        <path d="M660 200 L390 250" stroke="#616161" stroke-width="1.5" opacity="0.5"/>
+    </g>
+
+    <!-- Cyder Integration Layer Core (circle in the middle) -->
+    <circle cx="390" cy="250" r="40" fill="#f5f5f5" stroke="#333333" stroke-width="2"/>
+    <text x="390" y="245" text-anchor="middle" font-family="Arial" font-size="14" fill="#333333" font-weight="bold">Cyder</text>
+    <text x="390" y="265" text-anchor="middle" font-family="Arial" font-size="14" fill="#333333" font-weight="bold">Integration</text>
+    
+    <!-- Existing Systems (Top Row) -->
+    <g id="existing-systems-row1">
+        <!-- Sales/CRM -->
+        <rect x="50" y="20" width="140" height="70" rx="10" fill="#e3f2fd" stroke="#1976d2" stroke-width="2"/>
+        <text x="120" y="55" text-anchor="middle" font-family="Arial" font-size="14" fill="#1976d2" font-weight="bold">Sales/CRM</text>
+        <text x="120" y="75" text-anchor="middle" font-family="Arial" font-size="12" fill="#1976d2">(Salesforce, etc.)</text>
+        
+        <!-- Rental System -->
+        <rect x="230" y="20" width="140" height="70" rx="10" fill="#e8f5e9" stroke="#2e7d32" stroke-width="2"/>
+        <text x="300" y="55" text-anchor="middle" font-family="Arial" font-size="14" fill="#2e7d32" font-weight="bold">Rental System</text>
+        <text x="300" y="75" text-anchor="middle" font-family="Arial" font-size="12" fill="#2e7d32">(ERP)</text>
+
+        <!-- Maintenance -->
+        <rect x="410" y="20" width="140" height="70" rx="10" fill="#fff3e0" stroke="#f57c00" stroke-width="2"/>
+        <text x="480" y="55" text-anchor="middle" font-family="Arial" font-size="14" fill="#f57c00" font-weight="bold">Maintenance</text>
+        <text x="480" y="75" text-anchor="middle" font-family="Arial" font-size="12" fill="#f57c00">(CMMS)</text>
+
+        <!-- Marketing -->
+        <rect x="590" y="20" width="140" height="70" rx="10" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2"/>
+        <text x="660" y="55" text-anchor="middle" font-family="Arial" font-size="14" fill="#7b1fa2" font-weight="bold">Marketing</text>
+        <text x="660" y="75" text-anchor="middle" font-family="Arial" font-size="12" fill="#7b1fa2">(Automation)</text>
+    </g>
+
+    <!-- Existing Systems (Second Row) -->
+    <g id="existing-systems-row2">
+        <!-- Repair/Service -->
+        <rect x="50" y="130" width="140" height="70" rx="10" fill="#fce4ec" stroke="#c2185b" stroke-width="2"/>
+        <text x="120" y="165" text-anchor="middle" font-family="Arial" font-size="14" fill="#c2185b" font-weight="bold">Repair/Service</text>
+        <text x="120" y="185" text-anchor="middle" font-family="Arial" font-size="12" fill="#c2185b">(Field Service)</text>
+
+        <!-- Accounting -->
+        <rect x="230" y="130" width="140" height="70" rx="10" fill="#e8eaf6" stroke="#3f51b5" stroke-width="2"/>
+        <text x="300" y="165" text-anchor="middle" font-family="Arial" font-size="14" fill="#3f51b5" font-weight="bold">Accounting</text>
+        <text x="300" y="185" text-anchor="middle" font-family="Arial" font-size="12" fill="#3f51b5">(QuickBooks, etc.)</text>
+
+        <!-- Inventory -->
+        <rect x="410" y="130" width="140" height="70" rx="10" fill="#e0f2f1" stroke="#00796b" stroke-width="2"/>
+        <text x="480" y="165" text-anchor="middle" font-family="Arial" font-size="14" fill="#00796b" font-weight="bold">Inventory</text>
+        <text x="480" y="185" text-anchor="middle" font-family="Arial" font-size="12" fill="#00796b">(WMS)</text>
+
+        <!-- Additional System Placeholder -->
+        <rect x="590" y="130" width="140" height="70" rx="10" fill="#f5f5f5" stroke="#616161" stroke-width="2"/>
+        <text x="660" y="165" text-anchor="middle" font-family="Arial" font-size="14" fill="#616161" font-weight="bold">Other Systems</text>
+        <text x="660" y="185" text-anchor="middle" font-family="Arial" font-size="12" fill="#616161">(Custom Tools)</text>
+    </g>
+
+    <!-- Unified Dashboard -->
+    <g id="unified-dashboard">
+        <rect x="150" y="380" width="480" height="80" rx="10" fill="#e1f5fe" stroke="#0288d1" stroke-width="2"/>
+        <text x="390" y="420" text-anchor="middle" font-family="Arial" font-size="20" fill="#0288d1" font-weight="bold">Unified Operations Dashboard</text>
+        <text x="390" y="445" text-anchor="middle" font-family="Arial" font-size="14" fill="#0288d1">Real-time visibility across all systems</text>
+    </g>
+
+    <!-- Connection to Dashboard -->
+    <path d="M390 290 L390 380" stroke="#0288d1" stroke-width="2" marker-end="url(#arrowhead)"/>
+    
+    <!-- Arrow marker definition -->
+    <defs>
+        <marker id="arrowhead" markerWidth="10" markerHeight="7" 
+                refX="9" refY="3.5" orient="auto">
+            <polygon points="0 0, 10 3.5, 0 7" fill="#0288d1"/>
+        </marker>
+    </defs>
+</svg>
